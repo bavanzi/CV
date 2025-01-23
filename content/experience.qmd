@@ -1,0 +1,52 @@
+---
+title: "Short Bio"
+---
+
+## Professional qualifications
+
+* **FIAA** -- *Fellow of the Institute of Actuaries of Australia*
+* **CERA** -- *Chartered Enterprise Risk Actuary*
+* **GAICD** -- Graduate member of the Australian Institute of Company directors
+* **Actuary SAA** -- *Fully Qualified Actuary* with the Swiss Association of Actuaries
+
+## Academic Appointments 
+
+* **[2020 - ]** -- Professor (Full) of Actuarial Studies, Centre of Actuarial Studies, Department of Economics, Faculty of Business and Economics, University of Melbourne, Australia
+* **[2015 - 2020]** -- Associate Professor of Actuarial Studies, School of Risk and Actuarial Studies, UNSW Australia Business School, University of New South Wales (UNSW), Australia
+* **[2015 - 2018]** -- Professeur associé en actuariat^['Adjunct Professor' of Actuarial Science], Département de Mathématiques et de Statistique, Faculté des Arts et des Sciences, Université de Montréal (UdeM), Canada
+* **[2013 - 2015]** -- Professeur agrégé en actuariat^['Associate Professor' of Actuarial Science], Département de Mathématiques et de Statistique, Faculté des Arts et des Sciences, Université de Montréal (UdeM), Canada
+* **[2013 - 2015]** -- Adjunct Associate Professor, School of Risk and Actuarial Studies, UNSW Australia Business School, University of New South Wales (UNSW), Australia
+* **[2010 - 2013]** -- Senior Lecturer of Actuarial Studies, School of Risk and Actuarial Studies, Australian School of Business, University of New South Wales, Australia
+* **[2008 - 2010]** -- Lecturer of Actuarial Studies, School of Actuarial Studies, Australian School of Business, University of New South Wales, Australia
+* **[2005 - 2008]** -- Various casual lecturer positions, University of Lausanne & Bordeaux Business School
+* **[2003 - 2008]** -- Teaching and Research assistant, University of Lausanne
+
+## Professional Appointments
+
+* **[2023 – 2026]** -- Non-Executive Director, Management Board of the Theatre Royal (Hobart, Tasmania). Member of the Finance, Audit, and Risk Committee (FRAC)
+* **[2021 – 2022]** -- Elected Councillor, Caulfield Junior College. Convenor, Policy Review and Development Subcommittee
+* **[2020 – 2022]** -- Elected Board Member, École Française Melbourne (EFM) Vice-President since 2021
+* **[2018 – 2019]** -- Non-Executive Director, Lycee Condorcet the International French School of Sydney
+* **[2014 – 2015]** -- Actuarial consulting, Service de consultation en actuariat (Université de Montréal)
+* **[2008 – 2012]** -- Non-Executive Director, Fondation Comoedia, Switzerland (group insurance)
+* **[2007 – 2008]** -- Founder, Executive Director, Fondation Comoedia, Switzerland (group insurance)
+* **[2006 – 2008]** -- Executive Director, Chair, Fondation de prévoyance Artes et Comoedia, Switzerland (pension fund, 200 employers, 2000 insured)
+* **[2004 – 2004]** -- Consultant, La Suisse Assurances (actuarial department for group life), Lausanne, Switzerland
+
+## Education
+
+* **2008**: *PhD* -- University of Lausanne, Faculty of Business and Economics (HEC Lausanne), Actuarial Science (supervisor: Prof. Hans U. Gerber)
+* **2005**: *Lic Oec* -- University of Lausanne, Faculty of Business and Economics (HEC Lausanne), Business, major in Actuarial Science
+
+## International Research Awards
+
+* **2023**: **Hachemeister Prize**, awarded by the Casualty Actuarial Society (CAS) for the paper [Ensemble distributional forecasting for insurance loss reserving](https://arxiv.org/abs/2206.08541) which was presented at the 2022 ASTIN Colloquium
+* **2022**: **Highly Commended Paper Prize**, awarded by United Kingdom [Institute and Faculty of Actuaries](https://actuaries.org.uk/about-us/prizes-and-awards/best-paper-prizes/peter-clark-prize/) for the paper [SPLICE: A Synthetic Paid Loss and Incurred Cost Experience Simulator](https://www.cambridge.org/core/journals/annals-of-actuarial-science/article/splice-a-synthetic-paid-loss-and-incurred-cost-experience-simulator/E6AAC285B42CC5F2628B13CBD845CB6C) (published in the Annals of Actuarial Science)
+* **2018**: **Taylor Fry General Insurance Seminar Silver Prize**, awarded by an independent panel for the paper [How to proxy the unmodellable: Analysing granular insurance claims in the prescence of unobservable or complex drivers](https://www.actuaries.asn.au/microsites/general-insurance-seminar-2018/program-and-presentations/papers-and-pre-reading) (Australian Actuaries Institute General Insurance Seminar, November 2018)
+* **2017**: **Hachemeister Prize**, awarded by the Casualty Actuarial Society (CAS) for the paper [Correlations between insurance lines of business: An illusion or a real phenomenon? Some methodological considerations](http://dx.doi.org/10.1017/asb.2015.31) (2016, ASTIN Bulletin, 46:2)
+
+## Other Academic Awards
+
+* **2024**: **Prize for Exceptional Distinction in Research**: Research Excellence (Level D-E) category, The University of Melbourne Faculty of Business and Economics and Melbourne Business School Deans’ Excellence Awards.
+* **2018**: **The Dean’s Distinguished Leadership Award**O in recognition of exceptional and sustained contributions to the achievement of the goals of the UNSW School of Business and Strategy 2025.
+* **2011**: **Australian School of Business Teaching Excellence Award**: for “Outstanding Technology-Enabled Teaching Innovation Business School Deans’ Excellence Awards.

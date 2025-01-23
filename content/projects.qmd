@@ -1,0 +1,14 @@
+---
+title: "Projects"
+listing:
+  contents: 
+    - "projects/*.qmd"
+  sort: "date desc"
+  type: grid
+  categories: true
+  feed: true
+---
+
+Projects s
+
+ 

@@ -1,0 +1,386 @@
+\paperyear{2024 \aiOpenAccessSquare $\;$} \textbf{Avanzi, B.}, Li, Y., Wong, B., Xian, A.
+
+\vspace{-1ex} \href{https://doi.org/10.1080/03461238.2024.2365392}{\emph{Ensemble distributional forecasting for insurance loss reserving}}
+
+\vspace{-1ex}  [Q1,A,DL]\footnote{[Quartile according to \href{https://www.scimagojr.com}{Scimago} 2022, Journal rank according to the latest ABDC 2019 list. ``FT50'' means it is part of the 50 journals used in the FT research rank. ``DL'' means it appears on the Dean's List.]}  
+\underline{Scandinavian Actuarial Journal}, Vol. 2024, Issue 9, pp. 971--1012, 
+
+\vspace{-1ex} Awarded 2023 Hachemeister Prize
+%with 
+
+
+
+
+\paperyear{2024 \aiOpenAccessSquare $\;$} \textbf{Avanzi, B.}, De Felice, L.
+
+\vspace{-1ex} \href{https://doi.org/10.1007/s10203-024-00448-y}{\emph{Optimal Strategies for the Decumulation of Retirement
+Savings under Differing Appetites for Liquidity and Investment Risks}}
+
+\vspace{-1ex} [Q2,B]
+\underline{Decisions in Economics and Finance}, in press
+%with \underline{JRI}
+
+
+
+
+\paperyear{2024 \aiOpenAccessSquare $\;$} \textbf{Avanzi, B.}, Taylor, G., Wang, M., Wong, B.
+
+\vspace{-1ex} \href{https://doi.org/10.1017/asb.2024.7}{\emph{Machine learning with high-cardinality categorical features in actuarial applications}}
+
+\vspace{-1ex} [Q1,A,DL]
+\underline{ASTIN Bulletin}, Vol. 54, pp. 213--238.
+
+
+\paperyear{2024 \aiOpenAccessSquare $\;$} \textbf{Avanzi, B.}, Lavender, M., Taylor, G., Wong, B.
+
+\vspace{-1ex} \href{https://doi.org/10.1017/S1748499523000155}{\emph{Detection and treatment of outliers for multivariate robust loss reserving}}
+
+\vspace{-1ex} [Q1,A]
+\underline{Annals of Actuarial Science}, Vol. 18, pp. 102--125.
+
+
+
+\paperyear{2023 \aiOpenAccessSquare $\;$} \textbf{Avanzi, B.}, Lau, H., Steffensen, M.
+
+\vspace{-1ex} \href{https://doi.org/10.1080/03461238.2023.2257405}{\emph{Optimal reinsurance design under solvency constraints}}
+
+\vspace{-1ex}  [Q1,A,DL]
+\underline{Scandinavian Actuarial Journal}
+
+
+
+\paperyear{2023 \aiOpenAccessSquare $\;$} \textbf{Avanzi, B.}, Lavender, M., Taylor, G., Wong, B.
+
+\vspace{-1ex} \href{https://doi.org/10.1007/s13385-023-00356-2}{\emph{On the impact of outliers in loss reserving}}
+
+\vspace{-1ex} [Q2,B]
+\underline{European Actuarial Journal}
+
+
+\paperyear{2023} \textbf{Avanzi, B.}, Kusch Falden, D., Steffensen, M.
+
+\vspace{-1ex} \href{https://doi.org/10.1080/14697688.2023.2227661}{\emph{Stable Dividends under Linear-Quadratic Optimization}}
+
+\vspace{-1ex} [Q1,A]
+\underline{Quantitative Finance}, Vol. 23, Issue 9, pp. 1199--1215
+
+
+
+\paperyear{2023} \textbf{Avanzi, B.}, Taylor, G., Wang, M.
+
+\vspace{-1ex} \href{https://doi.org/10.1017/S1748499522000057}{\emph{\texttt{SPLICE}: A Synthetic Paid Loss and Incurred Cost Experience Simulator}}
+
+\vspace{-1ex} [Q1,A]
+\underline{Annals of Actuarial Science (Actuarial Software)}, Vol. 17, Issue 1, pp. 7--35.
+
+\vspace{-1ex} Awarded 2022 Highly Commended Paper Prize (IFoA)
+
+
+
+\paperyear{2023} \textbf{Avanzi, B.}, Chen, P. Henriksen, L. F. B., Wong, B.
+
+\vspace{-1ex} \href{https://doi.org/10.1080/03461238.2022.2116725}{\emph{On the surplus management of funds with assets and liabilities in presence of solvency requirements}}
+
+\vspace{-1ex} [Q1,A,DL] 
+\underline{Scandinavian Actuarial Journal}, Volume 2023, Issue 5, pp. 477-508.
+
+
+
+
+\paperyear{2022} Al-Mudafer, M. T., \textbf{Avanzi, B.}, Taylor, G., Wong, B.
+
+\vspace{-1ex} \href{https://doi.org/10.1016/j.insmatheco.2022.03.010}{\emph{Stochastic loss reserving with mixture density neural networks}}
+
+\vspace{-1ex} [Q1,A*,DL] 
+\underline{Insurance: Mathematics and Economics}, Vol. 105, pp. 144--174
+% on 31 Jan 2022
+
+
+
+\paperyear{2021} \textbf{Avanzi, B.}, Taylor, G., Wang, M., Wong, B.
+
+\vspace{-1ex} \href{https://doi.org/10.1016/j.insmatheco.2021.06.004}{\emph{\texttt{SynthETIC}: an individual insurance claim simulator with feature control}}
+
+\vspace{-1ex} [Q1,A*,DL] 
+\underline{Insurance: Mathematics and Economics}, Vol. 100, pp. 296--308
+%\
+
+
+\paperyear{2021} \textbf{Avanzi, B.}, Lau, H.., Wong, B.
+
+\vspace{-1ex} \href{https://doi.org/10.1016/j.ejor.2021.04.033}{\emph{On the optimality of joint periodic and extraordinary dividend strategies}}
+
+\vspace{-1ex} [Q1,A*]
+\underline{European Journal of Operational Research}, Vol. 295, issue 3, pp. 1189--1210
+%\
+
+
+\paperyear{2021} \textbf{Avanzi, B.}, Boglioni Beaulieu, G, Lafaye de Micheaux, P., Ouimet, F., Wong, B.
+
+\vspace{-1ex} \href{https://doi.org/10.1016/j.jmaa.2021.124982}{
+\emph{A counterexample to the existence of a general central limit theorem for pairwise independent identically distributed random variables}
+}
+
+\vspace{-1ex} [Q1,n/a]
+\underline{Journal of Mathematical Analysis and Applications}, Vol. 499, Issue 1, 124982
+%\
+
+
+
+
+\paperyear{2021} \textbf{Avanzi, B.}, Taylor, G., Wong, B., Yang, X.
+
+\vspace{-1ex} \href{https://doi.org/10.1016/j.insmatheco.2021.01.002}{\emph{On the modelling of multivariate counts with Cox processes and dependent shot noise intensities}}
+
+\vspace{-1ex} [Q1,A*,DL] 
+\underline{Insurance: Mathematics and Economics}, Vol. 99, pp. 9--24
+%\
+
+
+\paperyear{2021} \textbf{Avanzi, B.}, Lau, H.., Wong, B.
+
+\vspace{-1ex} \href{https://doi.org/10.1080/03461238.2020.1869069}{\emph{Optimal Periodic Dividend Strategies for Spectrally Negative L\'evy Risk Processes With Fixed Transaction Costs}}
+
+\vspace{-1ex} [Q1,A,DL] 
+\underline{Scandinavian Actuarial Journal}, Vol. 2021, Issue 8, pp. 645--670
+%\
+
+
+
+\paperyear{2021} \textbf{Avanzi, B.}, Taylor, B., Wong, B., Xian, A.
+
+\vspace{-1ex} \href{https://doi.org/10.1016/j.ejor.2020.07.022}{\emph{Modelling and understanding count processes through a Markov-modulated non-homogeneous Poisson process framework}}
+
+\vspace{-1ex} [Q1,A*]
+\underline{European Journal of Operational Research}, Vol. 290, Issue 1, pp. 177--195
+%\
+
+
+
+\paperyear{2021} \textbf{Avanzi, B.}, Taylor, B., Vu, P. A., Wong, B.
+
+\vspace{-1ex} \href{https://doi.org/10.1017/S1748499520000196}{\emph{On Unbalanced Data and Common Shock Models in Stochastic Loss Reserving}}
+
+\vspace{-1ex} [Q1,A]
+\underline{Annals of Actuarial Science}, Vol. 15, Issue 1, pp. 173--203
+%\
+
+
+\paperyear{2020} \textbf{Avanzi, B.}, Lau, H.., Wong, B.
+
+\vspace{-1ex} \href{https://doi.org/10.1016/j.insmatheco.2020.05.012}{\emph{Optimal Periodic Dividend Strategies for Spectrally Positive L\'evy Risk Processes With Fixed Transaction Costs}}
+
+\vspace{-1ex} [Q1,A*,DL] 
+\underline{Insurance: Mathematics and Economics}, Vol. 93, pp. 315--332
+
+\paperyear{2020} \textbf{Avanzi, B.}, Taylor, B., Vu P. A., Wong, B.
+
+\vspace{-1ex} \href{https://doi.org/10.1016/j.insmatheco.2020.04.007}{
+\emph{A Multivariate Evolutionary Generalised Linear Model Framework with Adaptive Estimation for Claims Reserving}
+}
+
+\vspace{-1ex} [Q1,A*,DL] 
+\underline{Insurance: Mathematics and Economics}, Vol. 93, pp. 50--71
+
+
+
+
+\paperyear{2018} \textbf{Avanzi, B.}, Taylor, B., Wong, B.
+
+\vspace{-1ex} \href{https://doi.org/10.1017/asb.2018.18}{\emph{Common shock models for claim arrays}}
+
+\vspace{-1ex} [Q1,A,DL]
+\underline{ASTIN Bulletin}, Vol. 48, Issue 3, pp. 1109-1136
+
+
+
+\paperyear{2018} \textbf{Avanzi, B.}, Tu, V., Wong, B.
+
+\vspace{-1ex}  \href{https://doi.org/10.1016/j.insmatheco.2018.01.009}{\emph{Optimal Dividends Under Erlang(2) Inter-Dividend Decision Times}}
+
+\vspace{-1ex} [Q1,A*,DL] 
+\underline{Insurance: Mathematics and Economics}, Vol. 79, pp. 225-242
+
+
+\paperyear{2018} \textbf{Avanzi, B.}, Henriksen, L. F. B., Wong, B.
+
+\vspace{-1ex}  \href{https://doi.org/10.1017/asb.2017.42}{\emph{On the distribution of the excedents of funds with assets and liabilities in presence of solvency and recovery requirements}}
+
+\vspace{-1ex} [Q1,A,DL]  
+\underline{ASTIN Bulletin}, Vol. 48, Issue 2, pp. 647--672.
+
+
+
+\paperyear{2017} \textbf{Avanzi, B.}, P\'erez, J.-L., Wong, B., Yamazaki, K.
+
+\vspace{-1ex} \href{http://dx.doi.org/10.1016/j.insmatheco.2016.10.010}{\emph{On optimal joint reflective and refractive dividend strategies in spectrally positive L\'evy models}}
+
+\vspace{-1ex} [Q1,A*,DL] 
+\underline{Insurance: Mathematics and Economics}, Vol. 72, pp. 148--162.
+
+
+
+
+
+\paperyear{2016} \textbf{Avanzi, B.}, Taylor, G., Vu, P. A., Wong, B.
+
+\vspace{-1ex} \href{http://dx.doi.org/10.1016/j.insmatheco.2016.08.006}{\emph{Stochastic Loss Reserving with Dependence: A Flexible Multivariate Tweedie Approach}}
+
+\vspace{-1ex} [Q1,A*,DL]  
+\underline{Insurance: Mathematics and Economics}, Vol. 71, pp. 63--78. %(ABDC A)
+
+
+\paperyear{2016} \textbf{Avanzi, B.}, Tu, V., Wong, B.
+
+\vspace{-1ex} \href{http://dx.doi.org/10.1017/asb.2016.17}{\emph{On the interface between optimal periodic and continuous dividend strategies in the presence of transaction costs}}
+
+\vspace{-1ex} [Q1,A,DL] 
+\underline{ASTIN Bulletin}, Vol. 46, Issue 3, pp. 709--746. %(ABDC A)
+
+
+\paperyear{2016} \textbf{Avanzi, B.}, Wong, B., Yang, X.
+
+\vspace{-1ex} \href{http://dx.doi.org/10.1016/j.insmatheco.2016.07.002}{\emph{A micro-level claim count model with overdispersion and reporting delays}}
+
+\vspace{-1ex} [Q1,A*,DL]  
+\underline{Insurance: Mathematics and Economics}, Vol. 71, pp. 1--14. %(ABDC A)
+
+
+
+\paperyear{2016} \textbf{Avanzi, B.}, Taylor, G., Wong, B.
+
+\vspace{-1ex} \href{http://dx.doi.org/10.1017/asb.2015.31}{\emph{Correlations between insurance lines of business: An illusion or a real phenomenon? Some methodological considerations}}
+
+\vspace{-1ex}[Q1,A,DL] 
+\underline{ASTIN Bulletin}, Vol. 46, Issue 2, pp. 225--263. %(ABDC A)
+
+\vspace{-1ex} Awarded 2023 Hachemeister Prize
+
+
+\paperyear{2016} \textbf{Avanzi, B.}, Tao, J., Wong, B., Yang, X.
+
+\vspace{-1ex} \href{http://dx.doi.org/10.1017/S1748499515000135}{\emph{Capturing Non-Exchangeable Dependence in Multivariate Loss Processes with Nested Archimedean L\'evy Copulas}}
+
+\vspace{-1ex} [Q1,A]
+\underline{Annals of Actuarial Science}, Vol. 10, Issue 01, pp. 87--117. %(ABDC A)
+
+
+\paperyear{2016 \aiOpenAccessSquare $\;$} \textbf{Avanzi, B.}, Tu, V., Wong, B.
+
+\vspace{-1ex} \href{http://dx.doi.org/10.3390/risks4040037}{\emph{A note on realistic dividends in actuarial surplus models}}
+
+\vspace{-1ex} [Q2,B] 
+\underline{Risks}, Vol. 4, Issue 4, Number 37
+
+
+\paperyear{2014} \textbf{Avanzi, B.}, Tu, V., Wong, B.
+
+\vspace{-1ex} \href{http://dx.doi.org/10.1016/j.insmatheco.2014.01.005}{\emph{On optimal periodic dividend strategies in the dual model with diffusion}}
+
+\vspace{-1ex} [Q1,A*,DL]  
+\underline{Insurance: Mathematics and Economics}, Vol. 55, pp. 210--224. %(ABDC A)
+
+
+
+
+\paperyear{2014} de Treville, S., Sch\"urhoff, N., Trigeorgis, L., \textbf{Avanzi, B.}
+
+\vspace{-1ex} \href{http://dx.doi.org/10.1111/poms.12223}{\emph{Optimal Sourcing and Lead-Time Reduction under Evolutionary Demand Risk}}
+
+\vspace{-1ex} [Q1,A*,FT50,DL] 
+\underline{Production and Operations Management}, Vol. 23, Issue 12, pp. 2103--2117. %(ABDC A)
+
+
+
+\paperyear{2014} \textbf{Avanzi, B.}, Purcal, S.
+
+\vspace{-1ex} \href{http://dx.doi.org/10.1017/S1748499514000086}{\emph{Annuitisation and cross-subsidies in a two-tiered retirement saving system}}
+
+\vspace{-1ex} [Q1,A] 
+\underline{Annals of Actuarial Science}, Vol. 8, Part 2, pp. 234--252. %(ABDC A)
+
+
+
+\paperyear{2013} \textbf{Avanzi, B.}, Cheung, E. C. K., Wong, B., Woo, J. K.
+
+\vspace{-1ex} \href{http://dx.doi.org/10.1016/j.insmatheco.2012.10.008}{\emph{On a periodic dividend barrier strategy in the dual model with continuous monitoring of solvency}}
+
+\vspace{-1ex} [Q1,A*,DL]  
+\underline{Insurance: Mathematics and Economics}, Vol. 52, Issue 1, pp. 98--113. %(ABDC A)
+
+
+\paperyear{2013} \textbf{Avanzi, B.}, Bicer, I., de Treville, S., Trigeorgis, L.
+
+\vspace{-1ex} \href{http://dx.doi.org/10.1080/1351847X.2012.681792}{\emph{Real Options at the Interface of Finance and Operations: Exploiting Embedded Supply Chain Real Options to Gain Competitiveness}}
+
+\vspace{-1ex} [Q1,A] 
+\underline{European Journal of Finance}, Vol. 19, Issue 7-8, pp. 760--778. %(ABDC B)
+
+
+
+
+\paperyear{2012} \textbf{Avanzi, B.}, Wong, B. 
+
+\vspace{-1ex} \href{http://dx.doi.org/10.1016/j.insmatheco.2012.04.002}{\emph{On a mean reverting dividend strategy with Brownian motion}}
+
+\vspace{-1ex} [Q1,A*,DL]  
+\underline{Insurance: Mathematics and Economics}, Vol. 51, Issue 2, pp. 229--238.  %(ABDC A)
+
+
+
+\paperyear{2011} \textbf{Avanzi, B.}, Shen, J., Wong, B.
+
+\vspace{-1ex} \href{http://poj.peeters-leuven.be/content.php?url=article&id=2136990&journal_code=AST}{\emph{Optimal dividends and capital injections in the dual model with diffusion}}
+
+\vspace{-1ex} [Q1,A,DL] 
+\underline{ASTIN Bulletin}, Vol. 41, Issue 2, pp. 611--644.% (ABDC A)
+
+
+
+\paperyear{2011} \textbf{Avanzi, B.}, Cassar, L. C., Wong, B.
+
+\vspace{-1ex} \href{http://poj.peeters-leuven.be/content.php?url=article&id=2136989&journal_code=AST}{\emph{Modelling Dependence in Insurance Claims Processes with L\'evy Copulas}}
+
+\vspace{-1ex} [Q1,A,DL] 
+\underline{ASTIN Bulletin}, Vol. 41, Issue 2, pp. 575--609. %(ABDC A)
+
+
+
+\paperyear{2010} \textbf{Avanzi, B.}
+
+\vspace{-1ex} \href{http://www.actuaries.asn.au/Library/50230_Journ_v16i2_combo.pdf}{\emph{What is it that makes the Swiss annuitise? A description of the Swiss retirement system}}
+
+\vspace{-1ex} [n/a,n/a] 
+\underline{Australian Actuarial Journal}, Vol. 16, Issue 2, pp. 135--162. %(ABDC C)
+
+
+\paperyear{2009} \textbf{Avanzi, B.}
+
+\vspace{-1ex} \href{http://dx.doi.org/10.1080/10920277.2009.10597549}{\emph{Strategies for Dividend Distribution: A Review}}
+
+\vspace{-1ex} [Q2,A] 
+\underline{North American Actuarial Journal}, Vol. 13, Issue 2, pp. 217--251. %(ABDC A)
+ 
+
+\paperyear{2008} de Treville, S., Edelson, N. M., Kharkar, A. N., \textbf{Avanzi, B.}
+
+\vspace{-1ex} \href{http://dx.doi.org/10.1007/s12063-008-0005-z}{\emph{Constructing useful theory: The case of Six Sigma} }
+
+\vspace{-1ex} [Q1,C] 
+\underline{Operations Management Research}, Vol. 1, Issue 1, pp. 15--23. %(ABDC C)
+
+
+\paperyear{2008} \textbf{Avanzi, B.}, Gerber, H. U.
+
+\vspace{-1ex} \href{http://dx.doi.org/10.2143/AST.38.2.2033357}{\emph{Optimal dividends in the dual model with diffusion} }
+
+\vspace{-1ex} [Q1,A,DL] 
+\underline{ASTIN Bulletin}, Vol. 38, Issue 2, pp. 653--667.  %(ABDC A)
+
+
+\paperyear{2007}\textbf{Avanzi, B.}, Gerber, H. U., Shiu, E. S. W.
+
+\vspace{-1ex} \href{http://dx.doi.org/10.1016/j.insmatheco.2006.10.002}{\emph{Optimal dividends in the dual model} }
+
+\vspace{-1ex} [Q1,A*,DL]  
+\underline{Insurance: Mathematics and Economics}, Vol. 41, Issue 1, pp. 111--123.  %(ABDC A)

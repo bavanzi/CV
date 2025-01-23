@@ -1,0 +1,39 @@
+project:
+  type: website
+
+  resources:
+    - resources/*
+
+website:
+  title: "Benjamin Avanzi"
+
+  site-url: https://www.myblogexample.io
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: "About"
+      - content/papers.qmd
+      - href: content/experience.qmd
+        text: "Bio"
+      - content/projects.qmd
+      - text: "Teaching"
+        menu:
+          - href: "https://communicate-data-with-r.netlify.app/"
+            text: "Communicate data with R"
+          - href: "https://actl10001.netlify.app/"
+            text: "Introduction to actuarial studies (ACTL10001)"
+          - href: "https://topics-actl.netlify.app/"
+            text: "Topics in actuarial studies (ACTL20004/90021)"
+          - href: "https://gim-am3.netlify.app/"
+            text: "General insurance modelling (ACTL30007/90020)"
+          - href: "https://github.com/agi-lab"
+            text: "Australian General Insurance lab (paper codes)"
+
+format:
+  html:
+    theme: sandstone
+    css: styles.css
+    toc: true
+
+
