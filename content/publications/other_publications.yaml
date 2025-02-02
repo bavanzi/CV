@@ -1,0 +1,44 @@
+- path: "https://www.actuaries.digital/2024/11/08/towards-optimising-the-decumulation-of-retirement-savings/"
+  title: "Towards Optimising the Decumulation of Retirement Savings"
+  author: "Avanzi, B., De Felice, L"
+  date: "11 Nov 2024"
+  categories: [Pensions and Retirement, ARC DP200101859]
+
+- path: "https://blog.kasa.ai/posts/synthetic/"
+  title: "SynthETIC: A Simulator of Synthetic Experience Tracking Insurance Claims"
+  author: "Avanzi, B., Taylor, G., Wang, M., Wong, B."
+  date: "14 Sep 2020"
+  categories: [Reserving, R Package, ARC LP130100723, ARC DP200101859]
+
+- path: "https://doi.org/10.1017/asb.2024.7"
+  title: "Machine learning with high-cardinality categorical features in actuarial applications"
+  author: " Avanzi, B., Taylor, G., Wang, M., Wong, B."
+  date: "11 April 2024"
+  categories: [Loss Processes, Machine Learning, ARC DP200101859]
+
+- path: "https://www.actuaries.digital/2019/04/16/how-to-proxy-the-unmodellable/"
+  title: "How to proxy the unmodellable"
+  author: "Avanzi, B., Taylor, G., Wong, B., Xian, A."
+  date: "16 April 2019"
+  categories: [Loss Processes, ARC LP130100723, ARC DP200101859]
+
+- path: "https://www.actuaries.digital/2016/12/14/construction-of-detailed-correlation-structures-across-gi-business-segments/"
+  title: "Construction of detailed correlation structures across GI business segments"
+  author: "Avanzi, B., Taylor, G., Wong, B."
+  date: "14 Dec 2016"
+  categories: []
+
+- path: "https://www.actuaries.digital/2015/09/30/are-correlations-an-illusion-or-a-real-phenomenon-evidence-from-the-ausi-data-set/"
+  title: "Are correlations real or imagined?"
+  author: "Avanzi, B., Taylor, G., Wong, B."
+  date: "30 Sep 2015"
+  categories: [Reserving, Capital Modelling, Stochastic Dependence, ARC LP130100723]
+
+- path: "https://www.actuaries.digital/2014/08/15/research-into-claim-dependencies-an-industry-and-academic-collaboration/"
+  title: "Research into claim Dependencies: an indsustry and academic collaboration"
+  author: "Avanzi, B., Taylor, G., Wong, B."
+  date: "15 Aug 2014"
+  categories: []
+
+
+

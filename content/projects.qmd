@@ -1,14 +1,17 @@
 ---
 title: "Projects"
 listing:
-  contents: 
-    - "projects/*.qmd"
-  sort: "date desc"
-  type: grid
-  categories: true
-  feed: true
+  - id: national-grants
+    contents: projects/national-grants.yaml
+    sort: "date desc"
+    type: default
+    categories: true
+    feed: true
 ---
 
-Projects s
+## National Competitive Grants
+
+:::{#national-grants}
+:::
 
  

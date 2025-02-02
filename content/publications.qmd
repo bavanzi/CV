@@ -1,0 +1,37 @@
+---
+title: "Publications"
+listing:
+  - id: peer-reviewed-publications
+    contents: publications/academic_publications.yaml
+    sort: "date desc"
+    type: table
+    categories: numbered
+    feed: true
+    fields: [date, title, author, categories]
+    
+  - id: other-publications
+    contents: publications/other_publications.yaml
+    sort: "date desc"
+    type: table
+    categories: numbered
+    feed: true
+    fields: [date, title, author, categories]
+      
+format:
+  html:
+    fontsize: 0.9em
+    grid:
+      sidebar-width: 150px
+      body-width: 1050px
+      margin-width: 300px
+---
+
+## Peer-Reviewed Publications
+
+:::{#peer-reviewed-publications}
+:::
+
+## Non-Academic Publications
+
+:::{#other-publications}
+:::
