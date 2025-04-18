@@ -15,9 +15,6 @@ about:
     - icon: linkedin
       text: "LinkedIn"
       href: http://www.linkedin.com/in/benjaminavanzi
-    - icon: twitter-x
-      text: "X"
-      href: https://twitter.com/ProfAvanzi
     - text: "{{< iconify academicons google-scholar >}} Google Scholar"
       href: https://scholar.google.ch/citations?user=X4Ur7VQAAAAJ
     - text: "{{< iconify academicons researchgate >}} Research Gate"
@@ -25,7 +22,7 @@ about:
     - text: "{{< iconify academicons orcid >}} ORCID"
       href: https://orcid.org/0000-0002-5424-4292
     - text: "{{< iconify academicons clarivate >}} Clarivate"
-      href: https://publons.com/researcher/1339617/benjamin-avanzi/
+      href: https://www.webofscience.com/wos/author/record/C-3888-2008
     - text: "{{< iconify academicons arxiv >}} arXiv"
       href: https://arxiv.org/a/avanzi_b_1.html
     - icon: github
@@ -43,11 +40,11 @@ format:
 ---
 
 ::: {#hero-heading}
-Benjamin Avanzi, PhD, Actuary SAA, GAICD, CERA, FIAA, serves as Professor of Actuarial Studies at the University of Melbourne. He has worked as an actuarial consultant in Switzerland and Canada, served as the Executive Chairman of the Board for a Swiss pension fund from 2006 to 2008, and has held full-time academic positions in Australia and Canada since 2008. Currently, he is a member of the Management Board of the Theatre Royal in Hobart, Tasmania.
+Benjamin Avanzi, PhD, Actuary SAA, GAICD, CERA, FIAA, is Professor of Actuarial Studies at the University of Melbourne. He has worked as an actuarial consultant in Switzerland and Canada, served as the Executive Chairman of the Board for a Swiss pension fund from 2006 to 2008, and has held full-time academic positions in Australia and Canada since 2008. Currently, he is also a member of the Management Board of the Theatre Royal in Hobart, Tasmania.
 
-As a fully qualified Swiss actuary (Actuary SAA), Benjamin is also a Fellow of the Australian Actuaries Institute (FIAA), a Chartered Enterprise Risk Actuary (CERA), and a Graduate member of the Australian Institute of Company Directors (GAICD). Additionally, he is an Academic member of the Casualty Actuarial Society and a member of the ASTIN section of the International Actuarial Association (IAA).
+A fully qualified Swiss actuary (Actuary SAA), Benjamin is also a Fellow of the Australian Actuaries Institute (FIAA), a Chartered Enterprise Risk Actuary (CERA), and a Graduate member of the Australian Institute of Company Directors (GAICD). Additionally, he is an Academic member of the Casualty Actuarial Society and a member of the ASTIN section of the International Actuarial Association (IAA).
 
-Throughout his career, Benjamin has published numerous papers in leading actuarial and operations journals. Along with various co-authors, he has been awarded the Hachemeister Prize twice by the Casualty Actuarial Society, in 2017 and 2023, and has received the Taylor Fry General Insurance Seminar Silver Prize in 2018, and a Highly Commended Paper Prize from the Institute and Faculty of Actuaries in 2022. He holds editorial roles as an Editor of the ASTIN Bulletin and as an Associate Editor of the journal Insurance: Mathematics and Economics.
+Throughout his career, Benjamin has published numerous papers in leading actuarial and operations journals. Along with various co-authors, he has been awarded the Hachemeister Prize twice by the Casualty Actuarial Society, in 2017 and 2023, has received the Taylor Fry General Insurance Seminar Silver Prize in 2018, and a Highly Commended Paper Prize from the Institute and Faculty of Actuaries in 2022. He is an Editor of the _ASTIN Bulletin: The Journal of the International Actuarial Association_ and an Associate Editor of the journal _Insurance: Mathematics and Economics_.
 
 ::: {.columns}
 ::: {.column width="30%"}
