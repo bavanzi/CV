@@ -31,13 +31,13 @@ website:
             text: "General insurance modelling (ACTL30007/90020)"
           - href: "https://github.com/agi-lab"
             text: "Australian General Insurance lab (paper codes)"
-      - text: "Students"
-        menu:
-          - href: https://web.maths.unsw.edu.au/~lafaye/
-            text: "Dummy Student 1"
-
-          - href: https://web.maths.unsw.edu.au/~lafaye/
-            text: "Dummy Student 2"
+      # - text: "Students"
+      #   menu:
+      #     - href: https://web.maths.unsw.edu.au/~lafaye/
+      #       text: "Dummy Student 1"
+      #
+      #     - href: https://web.maths.unsw.edu.au/~lafaye/
+      #       text: "Dummy Student 2"
 
 format:
   html:

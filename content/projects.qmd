@@ -7,11 +7,24 @@ listing:
     type: default
     categories: true
     feed: true
+
+  - id: other-grants
+    contents: projects/other-grants.yaml
+    sort: "date desc"
+    type: default
+    categories: true
+    feed: true
+    
 ---
 
 ## National Competitive Grants
 
 :::{#national-grants}
+:::
+
+## Other Exernal Competitive Grants
+
+:::{#other-grants}
 :::
 
  

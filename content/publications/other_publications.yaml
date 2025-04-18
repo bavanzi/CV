@@ -1,41 +1,41 @@
 - path: "https://www.actuaries.digital/2024/11/08/towards-optimising-the-decumulation-of-retirement-savings/"
-  title: "Towards Optimising the Decumulation of Retirement Savings"
+  title: "Towards Optimising the Decumulation of Retirement Savings, Actuaries Digital - Nov 2024"
   author: "Avanzi, B., De Felice, L"
   date: "11 Nov 2024"
   categories: [Pensions and Retirement, ARC DP200101859]
 
 - path: "https://blog.kasa.ai/posts/synthetic/"
-  title: "SynthETIC: A Simulator of Synthetic Experience Tracking Insurance Claims"
+  title: "SynthETIC: A Simulator of Synthetic Experience Tracking Insurance Claims, Kasa AI Blog"
   author: "Avanzi, B., Taylor, G., Wang, M., Wong, B."
   date: "14 Sep 2020"
   categories: [Reserving, R Package, ARC LP130100723, ARC DP200101859]
 
 - path: "https://doi.org/10.1017/asb.2024.7"
-  title: "Machine learning with high-cardinality categorical features in actuarial applications"
+  title: "Machine learning with high-cardinality categorical features in actuarial applications, ASTIN Bulletin, Vol.54, pp. 213-238"
   author: " Avanzi, B., Taylor, G., Wang, M., Wong, B."
   date: "11 April 2024"
   categories: [Loss Processes, Machine Learning, ARC DP200101859]
 
 - path: "https://www.actuaries.digital/2019/04/16/how-to-proxy-the-unmodellable/"
-  title: "How to proxy the unmodellable"
+  title: "How to proxy the unmodellable, Actuaries Digital - Apr 2019"
   author: "Avanzi, B., Taylor, G., Wong, B., Xian, A."
   date: "16 April 2019"
   categories: [Loss Processes, ARC LP130100723, ARC DP200101859]
 
 - path: "https://www.actuaries.digital/2016/12/14/construction-of-detailed-correlation-structures-across-gi-business-segments/"
-  title: "Construction of detailed correlation structures across GI business segments"
+  title: "Construction of detailed correlation structures across GI business segments, Actuaries Digital - Dec 2016"
   author: "Avanzi, B., Taylor, G., Wong, B."
   date: "14 Dec 2016"
   categories: []
 
 - path: "https://www.actuaries.digital/2015/09/30/are-correlations-an-illusion-or-a-real-phenomenon-evidence-from-the-ausi-data-set/"
-  title: "Are correlations real or imagined?"
+  title: "Are correlations real or imagined?, Actuaries Digital - Sep 2015"
   author: "Avanzi, B., Taylor, G., Wong, B."
   date: "30 Sep 2015"
   categories: [Reserving, Capital Modelling, Stochastic Dependence, ARC LP130100723]
 
 - path: "https://www.actuaries.digital/2014/08/15/research-into-claim-dependencies-an-industry-and-academic-collaboration/"
-  title: "Research into claim Dependencies: an indsustry and academic collaboration"
+  title: "Research into claim Dependencies: an indsustry and academic collaboration, Actuaries - August, pp. 9-11"
   author: "Avanzi, B., Taylor, G., Wong, B."
   date: "15 Aug 2014"
   categories: []

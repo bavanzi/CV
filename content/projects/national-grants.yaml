@@ -3,18 +3,21 @@
   description: "Recent decades are marked by numerous significant natural (climate change) or man-made (financial crises) catastrophes, which have significantly altered the landscape of the insurance industry. These have potentially significant negative impacts on the availability and affordability of insurance, and hence on the capability and capacity of households and businesses to take risks and be competitive. This project endeavours to establish progressive approaches (using extreme value theory) to the challenges faced by insurance in such a catastrophic environment. They will enhance the financial stability and competitivity of the Australian economy, and further establish its global leadership in dealing with climate changes and catastrophes."
   Investigators: "Prof Qihe Tang, Prof Benjamin Avanzi, Prof Bernard Wong, Prof Jose Blanchet"
   date: "31 August 2025"
+  categories: [ARC (Australian National Competitive)]
 
 - path: "https://www.nserc-crsng.gc.ca/ase-oro/Details-Detailles_eng.asp?id=590143"
   title: "Actuarial methods for assessing diversification effects in insurance"
   description: "In this stream, I aim at bringing the traditional measures of the theory of risk (probability of ruin, dividends), which are already traditionally defined on stochastic processes, closer to reality. In particular, I bring more realistic features to surplus model formulations. This relates more to diversification due to `volume' or `time'."
   Investigators: "Dr Benjamin Avanzi"
   date: "1 September 2020"
+  categories: [NSERC (Australian National Competitive)]
 
 - path: "https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP200101859"
   title: "LP130100723: Modelling claim dependencies for the general insurance industry with economic capital in view"
   description: "An innovative approach with stochastic processes. This project will develop and enhance multi-dimensional models used to describe and assess the risks borne by general insurers. These innovative methods, which will be directly applicable by the industry, will strengthen the efficiency and the safety of the Australian economy."
   Investigators: "Dr Benjamin Avanzi, Dr Bernard Wong, Dr Gregory Taylor, Mr Stephen Britt, Mr Yusuf Cakan, Mr David Koob"
   date: "1 June 2020"
+  categories: [ARC (Australian National Competitive), Other External Competitive]
 
 
 
