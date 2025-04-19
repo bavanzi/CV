@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Benjamin Avanzi</title>
+<link>https://avanzi.netlify.app/content/projects.html</link>
+<atom:link href="https://avanzi.netlify.app/content/projects.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.6.43</generator>
+<lastBuildDate>Sun, 31 Dec 2023 13:00:00 GMT</lastBuildDate>
+<item>
+  <title>(2024-2027) Natural Hazards Research Australia (NHRA) Project T4-A6: Evaluating the Resilient Homes Fund</title>
+  <link>https://avanzi.netlify.app/</link>
+  <description>Co-funded by the Queensland Reconstruction Authority and Natural Hazards Research Australia, this project evaluates Queensland&#39;s Resilient Homes Fund, addressing four dimensions of resilience (physical, financial, social, and emotional) by assessing buy-back, retrofit and house-raising, to demonstrate the success factors and lessons learnt for each as they link to the four resilience dimensions. </description>
+  <category>Other External Competitive</category>
+  <guid>https://avanzi.netlify.app/</guid>
+  <pubDate>Sun, 31 Dec 2023 13:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>(2020-2025) Extreme Value Theory Approaches to Insurance in a Catastrophic Environment (DP200101859)</title>
+  <link>https://avanzi.netlify.app/</link>
+  <description>Recent decades are marked by numerous significant natural (climate change) or man-made (financial crises) catastrophes, which have significantly altered the landscape of the insurance industry. These have potentially significant negative impacts on the availability and affordability of insurance, and hence on the capability and capacity of households and businesses to take risks and be competitive. This project endeavours to establish progressive approaches (using extreme value theory) to the challenges faced by insurance in such a catastrophic environment. They will enhance the financial stability and competitivity of the Australian economy, and further establish its global leadership in dealing with climate changes and catastrophes.</description>
+  <category>ARC (Australian National Competitive)</category>
+  <guid>https://avanzi.netlify.app/</guid>
+  <pubDate>Tue, 31 Dec 2019 13:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>(2015-2020) Actuarial methods for assessing diversification effects in insurance</title>
+  <link>https://avanzi.netlify.app/</link>
+  <description>In this stream, I aim at bringing the traditional measures of the theory of risk (probability of ruin, dividends), which are already traditionally defined on stochastic processes, closer to reality. In particular, I bring more realistic features to surplus model formulations. This relates more to diversification due to `volume&#39; or `time&#39;.</description>
+  <category>NSERC (Canadian National Competitive)</category>
+  <guid>https://avanzi.netlify.app/</guid>
+  <pubDate>Mon, 31 Aug 2015 14:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
