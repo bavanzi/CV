@@ -22,7 +22,7 @@ listing:
 :::{#national-grants}
 :::
 
-## Other Exernal Competitive Grants
+## Other External Funding
 
 :::{#other-grants}
 :::

@@ -12,15 +12,16 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: "About"
-      - href: resources/files/bavanziCV.pdf
-        text: "Curriculum Vitae"
+        text: "Home"
       - href: content/experience.qmd
-        text: "Bio"
+        text: "Short bio"
       - content/publications.qmd
-      - content/projects.qmd
-      - text: "Teaching"
+      - href: content/projects.qmd
+        text: "Projects"
+      - text: "Websites"
         menu:
+          - href: "https://github.com/agi-lab"
+            text: "Australian General Insurance lab (paper codes)"
           - href: "https://communicate-data-with-r.netlify.app/"
             text: "Communicate data with R"
           - href: "https://actl10001.netlify.app/"
@@ -29,8 +30,8 @@ website:
             text: "Topics in actuarial studies (ACTL20004/90021)"
           - href: "https://gim-am3.netlify.app/"
             text: "General insurance modelling (ACTL30007/90020)"
-          - href: "https://github.com/agi-lab"
-            text: "Australian General Insurance lab (paper codes)"
+      - href: resources/files/bavanziCV.pdf
+        text: "CV (pdf)"
       # - text: "Students"
       #   menu:
       #     - href: https://web.maths.unsw.edu.au/~lafaye/

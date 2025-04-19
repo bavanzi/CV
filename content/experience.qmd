@@ -1,5 +1,5 @@
 ---
-title: "Short Bio"
+title: "Short Biography"
 ---
 
 ## Professional qualifications
@@ -11,7 +11,7 @@ title: "Short Bio"
 
 ## Academic Appointments 
 
-* **[2020 - ]** -- Professor (Full) of Actuarial Studies, Centre of Actuarial Studies, Department of Economics, Faculty of Business and Economics, University of Melbourne, Australia
+* **[2020 - ]** -- Professor (Full) of Actuarial Studies, Centre for Actuarial Studies, Department of Economics, Faculty of Business and Economics, University of Melbourne, Australia
 * **[2015 - 2020]** -- Associate Professor of Actuarial Studies, School of Risk and Actuarial Studies, UNSW Australia Business School, University of New South Wales (UNSW), Australia
 * **[2015 - 2018]** -- Professeur associé en actuariat^['Adjunct Professor' of Actuarial Science], Département de Mathématiques et de Statistique, Faculté des Arts et des Sciences, Université de Montréal (UdeM), Canada
 * **[2013 - 2015]** -- Professeur agrégé en actuariat^['Associate Professor' of Actuarial Science], Département de Mathématiques et de Statistique, Faculté des Arts et des Sciences, Université de Montréal (UdeM), Canada
@@ -40,7 +40,7 @@ title: "Short Bio"
 
 ## International Research Awards
 
-* **2023**: **Hachemeister Prize**, awarded by the Casualty Actuarial Society (CAS) for the paper [Ensemble distributional forecasting for insurance loss reserving](https://arxiv.org/abs/2206.08541) which was presented at the 2022 ASTIN Colloquium
+* **2023**: **Hachemeister Prize**, awarded by the Casualty Actuarial Society (CAS) for the paper [Ensemble distributional forecasting for insurance loss reserving](https://doi.org/10.1080/03461238.2024.2365392) which was presented at the 2022 ASTIN Colloquium
 * **2022**: **Highly Commended Paper Prize**, awarded by United Kingdom [Institute and Faculty of Actuaries](https://actuaries.org.uk/about-us/prizes-and-awards/best-paper-prizes/peter-clark-prize/) for the paper [SPLICE: A Synthetic Paid Loss and Incurred Cost Experience Simulator](https://www.cambridge.org/core/journals/annals-of-actuarial-science/article/splice-a-synthetic-paid-loss-and-incurred-cost-experience-simulator/E6AAC285B42CC5F2628B13CBD845CB6C) (published in the Annals of Actuarial Science)
 * **2018**: **Taylor Fry General Insurance Seminar Silver Prize**, awarded by an independent panel for the paper [How to proxy the unmodellable: Analysing granular insurance claims in the prescence of unobservable or complex drivers](https://www.actuaries.asn.au/microsites/general-insurance-seminar-2018/program-and-presentations/papers-and-pre-reading) (Australian Actuaries Institute General Insurance Seminar, November 2018)
 * **2017**: **Hachemeister Prize**, awarded by the Casualty Actuarial Society (CAS) for the paper [Correlations between insurance lines of business: An illusion or a real phenomenon? Some methodological considerations](http://dx.doi.org/10.1017/asb.2015.31) (2016, ASTIN Bulletin, 46:2)
@@ -48,5 +48,5 @@ title: "Short Bio"
 ## Other Academic Awards
 
 * **2024**: **Prize for Exceptional Distinction in Research**: Research Excellence (Level D-E) category, The University of Melbourne Faculty of Business and Economics and Melbourne Business School Deans’ Excellence Awards.
-* **2018**: **The Dean’s Distinguished Leadership Award**O in recognition of exceptional and sustained contributions to the achievement of the goals of the UNSW School of Business and Strategy 2025.
+* **2018**: **The Dean’s Distinguished Leadership Award** in recognition of exceptional and sustained contributions to the achievement of the goals of the UNSW School of Business and Strategy 2025.
 * **2011**: **Australian School of Business Teaching Excellence Award**: for “Outstanding Technology-Enabled Teaching Innovation Business School Deans’ Excellence Awards.

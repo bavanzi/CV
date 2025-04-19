@@ -1,251 +1,300 @@
+- path: "https://doi.org/10.1080/10920277.2025.2457491"
+  title: "On the evolution of data breach reporting patterns and frequency in the United States: a cross-state analysis, North American Actuarial Journal, in press"
+  journal: "North American Actuarial Journal"
+  author: "Avanzi, B., Tan, X., Taylor, G., Wong, B."
+  date: "11 Apr 2025"
+  categories: [Reserving, Cyber, ARC DP200101859]
+
 - path: "https://doi.org/10.1080/03461238.2024.2365392"
-  title: "Ensemble distributional forecasting for insurance loss reserving, Scandinavian Actuarial Journal, Vol. 2024, Issue 9, pp. 971-1012"
+  title: "Ensemble distributional forecasting for insurance loss reserving"
+  journal: "Scandinavian Actuarial Journal, Vol. 2024, Issue 9, pp. 971-1012"
   author: " Avanzi, B., Li, Y., Wong, B., Xian, A."
   date: "03 Jul 2024"
   categories: [Reserving, Machine Learning, R Package, ARC DP200101859]
 
 - path: "https://doi.org/10.1007/s10203-024-00448-y"
-  title: "Optimal Strategies for the Decumulation of Retirement Savings under Differing Appetites for Liquidity and Investment Risks, Decisions in Economics and Finance, in press"
+  title: "Optimal Strategies for the Decumulation of Retirement Savings under Differing Appetites for Liquidity and Investment Risks"
+  journal: "Decisions in Economics and Finance, in press"
   author: " Avanzi, B., De Felice, L."
   date: "25 May 2024"
   categories: [Pensions and Retirement, ARC DP200101859]
 
 - path: "https://doi.org/10.1017/asb.2024.7"
-  title: "Machine learning with high-cardinality categorical features in actuarial applications, ASTIN Bulletin, Vol. 54, pp.213-238"
+  title: "Machine learning with high-cardinality categorical features in actuarial applications"
+  journal: "ASTIN Bulletin, Vol. 54, pp.213-238"
   author: " Avanzi, B., Taylor, G., Wang, M., Wong, B."
   date: "11 April 2024"
   categories: [Loss Processes, Machine Learning, ARC DP200101859]
 
 - path: "https://doi.org/10.1017/S1748499523000155"
-  title: "Detection and treatment of outliers for multivariate robust loss reserving, Annals of Actuarial Science, Vol. 18, pp. 102-125"
+  title: "Detection and treatment of outliers for multivariate robust loss reserving"
+  journal: "Annals of Actuarial Science, Vol. 18, pp. 102-125"
   author: " Avanzi, B., Lavender, M., Taylor, G., Wong, B."
   date: "24 August 2023"
   categories: [Reserving, Stochastic Dependence, ARC LP130100723, ARC DP200101859]
 
 - path: "https://doi.org/10.1080/03461238.2023.2257405"
-  title: "Optimal reinsurance design under solvency constraints, Scandinavian Actuarial Journal"
+  title: "Optimal reinsurance design under solvency constraints"
+  journal: "Scandinavian Actuarial Journal"
   author: " Avanzi, B., Lau, H., Steffensen, M."
   date: "06 Oct 2023"
   categories: [Reinsurance, Optimal Control, ARC DP200101859]
 
 - path: "https://doi.org/10.1007/s13385-023-00356-2"
-  title: "On the impact of outliers in loss reserving, European Actuarial Journal"
+  title: "On the impact of outliers in loss reserving"
+  journal: "European Actuarial Journal"
   author: " Avanzi, B., Lavender, M., Taylor, G., Wong, B."
   date: "05 Sep 2023"
   categories: [Reserving, ARC LP130100723, ARC DP200101859]
 
 - path: "https://doi.org/10.1080/14697688.2023.2227661"
-  title: "Stable Dividends under Linear-Quadratic Optimization, Quantitative Finance, Vol. 23, Issue 9, pp. 1199-1215"
+  title: "Stable Dividends under Linear-Quadratic Optimization"
+  journal: "Quantitative Finance, Vol. 23, Issue 9, pp. 1199-1215"
   author: " Avanzi, B., Kusch Falden, D., Steffensen, M."
   date: "24 Jul 2023"
   categories: [Capital Modelling, Dividends, Optimal Control, ARC DP200101859]
 
 - path: "https://doi.org/10.1017/S1748499522000057"
-  title: "SPLICE: a synthetic paid loss and incurred cost experience simulator, Annals of Actuarial Science (Actuarial Software), Vol. 17, Issue 1, pp.7-35"
+  title: "SPLICE: a synthetic paid loss and incurred cost experience simulator"
+  journal: "Annals of Actuarial Science (Actuarial Software), Vol. 17, Issue 1, pp.7-35"
   author: " Avanzi, B., Taylor, G., Wang, M."
   date: "23 May 2022"
   categories: [Reserving, R Package, ARC LP130100723, ARC DP200101859]
 
 - path: "https://doi.org/10.1080/03461238.2022.2116725"
-  title: "On the surplus management of funds with assets and liabilities in presence of solvency requirements, Scandinavian Actuarial Journal, Volume 2023, Issue 5, pp. 477-508"
+  title: "On the surplus management of funds with assets and liabilities in presence of solvency requirements"
+  journal: "Scandinavian Actuarial Journal, Volume 2023, Issue 5, pp. 477-508"
   author: " Avanzi, B., Chen, P. Henriksen, L. F. B., Wong, B."
   date: "16 Oct 2022"
   categories: [Capital Modelling, Dividends, Pensions and Retirement, Optimal Control, ARC LP130100723, ARC DP200101859]
 
 - path: "https://doi.org/10.1016/j.insmatheco.2022.03.010"
-  title: "Stochastic loss reserving with mixture density neural networks, Insurance: Mathematics and Economics, Vol 105, pp. 144-174"
+  title: "Stochastic loss reserving with mixture density neural networks"
+  journal: "Insurance: Mathematics and Economics, Vol 105, pp. 144-174"
   author: " Al-Mudafer, M. T., Avanzi, B., Taylor, G., Wong, B."
   date: "July 2022"
   categories: [Reserving, Machine Learning, ARC LP130100723, ARC DP200101859]
 
 - path: "https://doi.org/10.1016/j.insmatheco.2021.06.004"
-  title: "SynthETIC: An individual insurance claim simulator with feature control, Insurance: Mathematics and Economics, Vol. 100, pp. 296-308"
+  title: "SynthETIC: An individual insurance claim simulator with feature control"
+  journal: "Insurance: Mathematics and Economics, Vol. 100, pp. 296-308"
   author: " Avanzi, B., Taylor, G., Wang, M., Wong, B."
   date: "Sep 2021"
   categories: [Reserving, R Package, ARC LP130100723, ARC DP200101859]
 
 - path: "https://doi.org/10.1016/j.ejor.2021.04.033"
-  title: "On the optimality of joint periodic and extraordinary dividend strategies, European Journal of Operational Research, Vol. 295, Issue 3, pp. 1189-1210"
+  title: "On the optimality of joint periodic and extraordinary dividend strategies"
+  journal: "European Journal of Operational Research, Vol. 295, Issue 3, pp. 1189-1210"
   author: " Avanzi, B., Lau, H.., Wong, B."
   date: "16 December 2021"
   categories: [Capital Modelling, Dividends, Optimal Control, ARC LP130100723, ARC DP200101859]
 
 - path: "https://doi.org/10.1016/j.jmaa.2021.124982"
-  title: "A counterexample to the existence of a general central limit theorem for pairwise independent identically distributed random variables, Journal of Mathematical Analysis and Applications, Vol. 499, Issue 1, 124982"
+  title: "A counterexample to the existence of a general central limit theorem for pairwise independent identically distributed random variables"
+  journal: "Journal of Mathematical Analysis and Applications, Vol. 499, Issue 1, 124982"
   author: " Avanzi, B., Boglioni Beaulieu, G, Lafaye de Micheaux, P., Ouimet, F., Wong, B."
   date: "1 July 2021"
   categories: [Stochastic Dependence, ARC LP130100723, ARC DP200101859]
 
 - path: "https://doi.org/10.1016/j.insmatheco.2021.01.002"
-  title: "On the modelling of multivariate counts with Cox processes and dependent shot noise intensities, Insurance: Mathematics and Economics, Vol. 99, pp. 9-24"
+  title: "On the modelling of multivariate counts with Cox processes and dependent shot noise intensities"
+  journal: "Insurance: Mathematics and Economics, Vol. 99, pp. 9-24"
   author: " Avanzi, B., Taylor, G., Wong, B., Yang, X."
   date: "July 2021"
   categories: [Reserving, Stochastic Dependence, ARC LP130100723, ARC DP200101859]
 
 - path: "https://doi.org/10.1080/03461238.2020.1869069"
-  title: "Optimal Periodic Dividend Strategies for Spectrally Negative Lévy Risk Processes With Fixed Transaction Costs, Scandinavian Actuarial Journal, Vol. 2021, Issue 8, pp. 645-670"
+  title: "Optimal Periodic Dividend Strategies for Spectrally Negative Lévy Risk Processes With Fixed Transaction Costs"
+  journal: "Scandinavian Actuarial Journal, Vol. 2021, Issue 8, pp. 645-670"
   author: " Avanzi, B., Lau, H.., Wong, B."
   date: "08 Feb 2021"
   categories: [Capital Modelling, Dividends, Optimal Control, ARC LP130100723, ARC DP200101859]
 
 - path: "https://doi.org/10.1016/j.ejor.2020.07.022"
-  title: "Modelling and understanding count processes through a Markov-modulated non-homogeneous Poisson process framework, European Journal of Operational Research, Vol. 290, Issue 1, pp. 177-195"
+  title: "Modelling and understanding count processes through a Markov-modulated non-homogeneous Poisson process framework"
+  journal: "European Journal of Operational Research, Vol. 290, Issue 1, pp. 177-195"
   author: " Avanzi, B., Taylor, B., Wong, B., Xian, A."
   date: "1 April 2021"
   categories: [Loss Processes, ARC LP130100723, ARC DP200101859]
 
 - path: "https://doi.org/10.1017/S1748499520000196"
-  title: "On Unbalanced Data and Common Shock Models in Stochastic Loss Reserving, Annals of Actuarial Science, Vol. 15, Issue 1, pp. 173-203"
+  title: "On Unbalanced Data and Common Shock Models in Stochastic Loss Reserving"
+  journal: "Annals of Actuarial Science, Vol. 15, Issue 1, pp. 173-203"
   author: " Avanzi, B., Taylor, B., Vu, P. A., Wong, B."
   date: "27 July 2020"
   categories: [Reserving, Stochastic Dependence, ARC LP130100723, ARC DP200101859]
 
 - path: "https://doi.org/10.1016/j.insmatheco.2020.05.012"
-  title: "Optimal Periodic Dividend Strategies for Spectrally Positive Lévy Risk Processes With Fixed Transaction Costs, Insurance: Mathematics and Economics, Vol. 93, pp. 315-332"
+  title: "Optimal Periodic Dividend Strategies for Spectrally Positive Lévy Risk Processes With Fixed Transaction Costs"
+  journal: "Insurance: Mathematics and Economics, Vol. 93, pp. 315-332"
   author: " Avanzi, B., Lau, H.., Wong, B."
   date: "July 2020"
   categories: [Capital Modelling, Dividends, Optimal Control, ARC LP130100723, ARC DP200101859]
 
 - path: "https://doi.org/10.1016/j.insmatheco.2020.04.007"
-  title: "A Multivariate Evolutionary Generalised Linear Model Framework with Adaptive Estimation for Claims Reserving, Insurance: Mathematics and Economics, Vol. 93, pp. 50-71"
+  title: "A Multivariate Evolutionary Generalised Linear Model Framework with Adaptive Estimation for Claims Reserving"
+  journal: "Insurance: Mathematics and Economics, Vol. 93, pp. 50-71"
   author: " Avanzi, B., Taylor, B., Vu P. A., Wong, B."
   date: "July 2020"
   categories: [Reserving, Stochastic Dependence, ARC LP130100723, ARC DP200101859]
 
 - path: "https://doi.org/10.1017/asb.2018.18"
-  title: "Common shock models for claim arrays, ASTIN Bulletin, Vol 48, Issue 3, pp. 1109-1136"
+  title: "Common shock models for claim arrays"
+  journal: "ASTIN Bulletin, Vol 48, Issue 3, pp. 1109-1136"
   author: " Avanzi, B., Taylor, B., Wong, B."
   date: "08 June 2018"
   categories: [Reserving, Capital Modelling, Stochastic Dependence, ARC LP130100723]
 
 - path: "https://doi.org/10.1016/j.insmatheco.2018.01.009"
-  title: "Optimal Dividends Under Erlang(2) Inter-Dividend Decision Times, Insurance: Mathematics and Economics, Vol 79, pp. 225-242"
+  title: "Optimal Dividends Under Erlang(2) Inter-Dividend Decision Times"
+  journal: "Insurance: Mathematics and Economics, Vol 79, pp. 225-242"
   author: " Avanzi, B., Tu, V., Wong, B."
   date: " March 2018"
   categories: [Capital Modelling, Dividends, Optimal Control, ARC LP130100723]
 
 - path: "https://doi.org/10.1017/asb.2017.42"
-  title: "On the distribution of the excedents of funds with assets and liabilities in presence of solvency and recovery requirements, ASTIN Bulletin, Vol. 48, Issue 2, pp. 647-672"
+  title: "On the distribution of the excedents of funds with assets and liabilities in presence of solvency and recovery requirements"
+  journal: "ASTIN Bulletin, Vol. 48, Issue 2, pp. 647-672"
   author: " Avanzi, B., Henriksen, L. F. B., Wong, B."
   date: "12 April 2018"
   categories: [Capital Modelling, Dividends, Pensions and Retirement, Optimal Control, ARC LP130100723]
 
 - path: "http://dx.doi.org/10.1016/j.insmatheco.2016.10.010"
-  title: "On optimal joint reflective and refractive dividend strategies in spectrally positive Lévy models, Insurance: Mathematics and Economics, Vol. 72, pp. 148-162"
+  title: "On optimal joint reflective and refractive dividend strategies in spectrally positive Lévy models"
+  journal: "Insurance: Mathematics and Economics, Vol. 72, pp. 148-162"
   author: " Avanzi, B., Pérez, J.-L., Wong, B., Yamazaki, K."
   date: "January 2017"
   categories: [Capital Modelling, Dividends, Optimal Control, ARC LP130100723]
 
 - path: "http://dx.doi.org/10.1016/j.insmatheco.2016.08.006"
-  title: "Stochastic Loss Reserving with Dependence: A Flexible Multivariate Tweedie Approach, Insurance: Mathematics and Economics, Vol. 71, pp. 63-78"
+  title: "Stochastic Loss Reserving with Dependence: A Flexible Multivariate Tweedie Approach"
+  journal: "Insurance: Mathematics and Economics, Vol. 71, pp. 63-78"
   author: " Avanzi, B., Taylor, G., Vu, P. A., Wong, B."
   date: "November 2016"
   categories: [Reserving, Stochastic Dependence, ARC LP130100723]
 
 - path: "http://dx.doi.org/10.1017/asb.2016.17"
-  title: "On the interface between optimal periodic and continuous dividend strategies in the presence of transaction costs, ASTIN Bulletin, Vol. 46, Issue 3, pp. 709-746"
+  title: "On the interface between optimal periodic and continuous dividend strategies in the presence of transaction costs"
+  journal: "ASTIN Bulletin, Vol. 46, Issue 3, pp. 709-746"
   author: " Avanzi, B., Tu, V., Wong, B."
   date: "13 June 2016"
   categories: [Capital Modelling, Dividends, Optimal Control, ARC LP130100723]
 
 - path: "http://dx.doi.org/10.1016/j.insmatheco.2016.07.002"
-  title: "A micro-level claim count model with overdispersion and reporting delays, Insurance: Mathematics and Economics, Vol. 71, pp. 1-14"
+  title: "A micro-level claim count model with overdispersion and reporting delays"
+  journal:"Insurance: Mathematics and Economics, Vol. 71, pp. 1-14"
   author: " Avanzi, B., Wong, B., Yang, X."
   date: "November 2016"
   categories: [Reserving, ARC LP130100723]
 
 - path: "http://dx.doi.org/10.1017/asb.2015.31"
-  title: "Correlations between insurance lines of business: An illusion or a real phenomenon? Some methodological considerations, ASTIN Bulletin, Vol. 46, Issue 2, pp. 225-263"
+  title: "Correlations between insurance lines of business: An illusion or a real phenomenon? Some methodological considerations"
+  journal: "ASTIN Bulletin, Vol. 46, Issue 2, pp. 225-263"
   author: " Avanzi, B., Taylor, G., Wong, B."
   date: "27 January 2016"
   categories: [Reserving, Capital Modelling, Stochastic Dependence, ARC LP130100723]
 
 - path: "http://dx.doi.org/10.1017/S1748499515000135"
-  title: "Capturing Non-Exchangeable Dependence in Multivariate Loss Processes with Nested Archimedean Lévy Copulas, Annals of Actuarial Science, Vol. 10, Issue 01, pp. 87-117"
+  title: "Capturing Non-Exchangeable Dependence in Multivariate Loss Processes with Nested Archimedean Lévy Copulas"
+  journal: "Annals of Actuarial Science, Vol. 10, Issue 01, pp. 87-117"
   author: " Avanzi, B., Tao, J., Wong, B., Yang, X."
   date: "11 December 2015"
   categories: [Stochastic Dependence, Loss Processes, ARC LP130100723]
 
 - path: "http://dx.doi.org/10.3390/risks4040037"
-  title: "A note on realistic dividends in actuarial surplus models, Risks, Vol. 4, Issue 4, Number 37"
+  title: "A note on realistic dividends in actuarial surplus models"
+  journal: "Risks, Vol. 4, Issue 4, Number 37"
   author: " Avanzi, B., Tu, V., Wong, B."
   date: "20 October 2016"
   categories: [Capital Modelling, Dividends, ARC LP130100723]
 
 - path: "http://dx.doi.org/10.1016/j.insmatheco.2014.01.005"
-  title: "On optimal periodic dividend strategies in the dual model with diffusion, Insurance Mathematics and Economics, Vol. 55, pp. 210-224"
+  title: "On optimal periodic dividend strategies in the dual model with diffusion"
+  journal: "Insurance Mathematics and Economics, Vol. 55, pp. 210-224"
   author: " Avanzi, B., Tu, V., Wong, B."
   date: "March 2014"
   categories: [Dividends, Optimal Control]
 
 - path: "http://dx.doi.org/10.1111/poms.12223"
-  title: "Optimal Sourcing and Lead-Time Reduction under Evolutionary Demand Risk, Production and Operations Management, Vol 23, Issue 12, pp. 2103-2117"
+  title: "Optimal Sourcing and Lead-Time Reduction under Evolutionary Demand Risk"
+  journal: "Production and Operations Management, Vol 23, Issue 12, pp. 2103-2117"
   author: " de Treville, S., Schürhoff, N., Trigeorgis, L., Avanzi, B."
   date: "01 December 2014"
   categories: [Operations Management]
 
 - path: "http://dx.doi.org/10.1017/S1748499514000086"
-  title: "Annuitisation and cross-subsidies in a two-tiered retirement saving system, Annals of Actuarial Science, Vol. 8, Part 2, pp. 234-252"
+  title: "Annuitisation and cross-subsidies in a two-tiered retirement saving system"
+  journal: "Annals of Actuarial Science, Vol. 8, Part 2, pp. 234-252"
   author: " Avanzi, B., Purcal, S."
   date: "26 August 2014"
   categories: [Pensions and Retirement]
 
 - path: "http://dx.doi.org/10.1016/j.insmatheco.2012.10.008"
-  title: "On a periodic dividend barrier strategy in the dual model with continuous monitoring of solvency, Insurance: Mathematics and Economics, Vol. 52, Issue 1, pp. 98-113"
+  title: "On a periodic dividend barrier strategy in the dual model with continuous monitoring of solvency"
+  journal: "Insurance: Mathematics and Economics, Vol. 52, Issue 1, pp. 98-113"
   author: " Avanzi, B., Cheung, E. C. K., Wong, B., Woo, J. K."
   date: "January 2013"
   categories: [Capital Modelling, Dividends, Optimal Control]
 
 - path: "http://dx.doi.org/10.1080/1351847X.2012.681792"
-  title: "Real Options at the Interface of Finance and Operations: Exploiting Embedded Supply Chain Real Options to Gain Competitiveness, European Journal of Finance, Vol. 19, Issue 7-8, pp. 760-778"
+  title: "Real Options at the Interface of Finance and Operations: Exploiting Embedded Supply Chain Real Options to Gain Competitiveness"
+  journal: "European Journal of Finance, Vol. 19, Issue 7-8, pp. 760-778"
   author: " Avanzi, B., Bicer, I., de Treville, S., Trigeorgis, L."
   date: "29 Jun 2012"
   categories: [Operations Management]
 
 - path: "http://dx.doi.org/10.1016/j.insmatheco.2012.04.002"
-  title: "On a mean reverting dividend strategy with Brownian motion, Insurance: Mathematics and Economics, Vol. 51, Issue 2, pp. 229-338"
+  title: "On a mean reverting dividend strategy with Brownian motion"
+  journal: "Insurance: Mathematics and Economics, Vol. 51, Issue 2, pp. 229-338"
   author: " Avanzi, B., Wong, B. "
   date: "September 2012"
   categories: [Capital Modelling, Dividends]
 
 - path: "http://poj.peeters-leuven.be/content.php?url=article&id=2136990&journal_code=AST"
-  title: "Optimal dividends and capital injections in the dual model with diffusion, ASTIN Bulletin, Vol. 41, Issue 2, pp. 611-644"
+  title: "Optimal dividends and capital injections in the dual model with diffusion"
+  journal: "ASTIN Bulletin, Vol. 41, Issue 2, pp. 611-644"
   author: " Avanzi, B., Shen, J., Wong, B."
   date: "2011"
   categories: [Capital Modelling, Dividends, Optimal Control]
 
 - path: "http://poj.peeters-leuven.be/content.php?url=article&id=2136989&journal_code=AST"
-  title: "Modelling Dependence in Insurance Claims Processes with Lévy Copulas, ASTIN Bulletin, Vol. 41, Issue 2, pp. 575-609"
+  title: "Modelling Dependence in Insurance Claims Processes with Lévy Copulas"
+  journal: "ASTIN Bulletin, Vol. 41, Issue 2, pp. 575-609"
   author: " Avanzi, B., Cassar, L. C., Wong, B."
   date: "2011"
   categories: [Stochastic Dependence, Loss Processes]
 
 - path: "http://www.actuaries.asn.au/Library/50230_Journ_v16i2_combo.pdf"
-  title: "What is it that makes the Swiss annuitise? A description of the Swiss retirement system, Australian Actuarial Journal, Vol. 16, Issue 2, pp. 135-162"
+  title: "What is it that makes the Swiss annuitise? A description of the Swiss retirement system"
+  journal: "Australian Actuarial Journal, Vol. 16, Issue 2, pp. 135-162"
   author: " Avanzi, B."
   date: "2010"
   categories: [Pensions and Retirement]
 
 - path: "http://dx.doi.org/10.1080/10920277.2009.10597549"
-  title: "Strategies for Dividend Distribution: A Review, North American Actuarial Journal, Vol. 13, Issue 2, pp. 217-251"
+  title: "Strategies for Dividend Distribution: A Review"
+  journal: "North American Actuarial Journal, Vol. 13, Issue 2, pp. 217-251"
   author: " Avanzi, B."
   date: "28 Dec 2012"
   categories: [Dividends]
 
 - path: "http://dx.doi.org/10.1007/s12063-008-0005-z"
-  title: "Constructing useful theory: The case of Six Sigma, Operations Management Research, Vol. 1, Issue 1, pp. 15-23"
-  author: " de Treville, S., Edelson, N. M., Kharkar, A. N., Avanzi, B."
+  title: "Constructing useful theory: The case of Six Sigma"
+  journal: "Operations Management Research, Vol. 1, Issue 1, pp. 15-23"
+  author: "de Treville, S., Edelson, N. M., Kharkar, A. N., Avanzi, B."
   date: "17 July 2008"
   categories: [Operations Management]
 
 - path: "http://dx.doi.org/10.2143/AST.38.2.2033357"
-  title: "Optimal dividends in the dual model with diffusion, ASTIN Bulletin, Vol. 38, Issue 2, pp. 653-667"
+  title: "Optimal dividends in the dual model with diffusion"
+  journal: "ASTIN Bulletin, Vol. 38, Issue 2, pp. 653-667"
   author: " Avanzi, B., Gerber, H. U."
   date: "17 April 2015"
   categories: [Capital Modelling, Dividends, Optimal Control]
 
 - path: "http://dx.doi.org/10.1016/j.insmatheco.2006.10.002"
-  title: "Optimal dividends in the dual model, Insurance: Mathematics and Economics, Vol. 41, Issue 1, pp. 111-123"
+  title: "Optimal dividends in the dual model"
+  journal: "Insurance: Mathematics and Economics, Vol. 41, Issue 1, pp. 111-123"
   author: "Avanzi, B., Gerber, H. U., Shiu, E. S. W."
   date: "July 2007"
   categories: [Capital Modelling, Dividends, Optimal Control]

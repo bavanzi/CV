@@ -1,13 +1,21 @@
 ---
 title: "Publications"
 listing:
+  - id: books
+    contents: publications/books.yaml
+    sort: "date desc"
+    type: table
+    categories: numbered
+    feed: true
+    fields: [date, title, author, categories]
+
   - id: peer-reviewed-publications
     contents: publications/academic_publications.yaml
     sort: "date desc"
     type: table
     categories: numbered
     feed: true
-    fields: [date, title, author, categories]
+    fields: [date, title, journal, author, categories]
     
   - id: other-publications
     contents: publications/other_publications.yaml
@@ -15,7 +23,7 @@ listing:
     type: table
     categories: numbered
     feed: true
-    fields: [date, title, author, categories]
+    fields: [date, title, outlet, author, categories]
       
 format:
   html:
@@ -25,6 +33,11 @@ format:
       body-width: 1050px
       margin-width: 300px
 ---
+
+## Books
+
+:::{#books}
+:::
 
 ## Peer-Reviewed Publications
 
