@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: "44675eef-e205-4446-b0df-0844e98ade88"
+      url: "https://avanzi.netlify.app"
