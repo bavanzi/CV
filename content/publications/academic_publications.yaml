@@ -35,14 +35,14 @@
 
 - path: "https://doi.org/10.1080/03461238.2023.2257405"
   title: "Optimal reinsurance design under solvency constraints"
-  journal: "Scandinavian Actuarial Journal"
+  journal: "Scandinavian Actuarial Journal, 2024(4), 383–416"
   author: " Avanzi, B., Lau, H., Steffensen, M."
   date: "06 Oct 2023"
   categories: [Reinsurance, Optimal Control, ARC DP200101859]
 
 - path: "https://doi.org/10.1007/s13385-023-00356-2"
   title: "On the impact of outliers in loss reserving"
-  journal: "European Actuarial Journal"
+  journal: "European Actuarial Journal, Vol. 14, pp. 257-296"
   author: " Avanzi, B., Lavender, M., Taylor, G., Wong, B."
   date: "05 Sep 2023"
   categories: [Reserving, ARC LP130100723, ARC DP200101859]

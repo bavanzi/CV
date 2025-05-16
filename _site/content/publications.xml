@@ -6,113 +6,113 @@
       version="2.0">
 <channel>
 <title>Benjamin Avanzi</title>
-<link>https://bavanzicv.netlify.app/content/publications.html</link>
-<atom:link href="https://bavanzicv.netlify.app/content/publications.xml" rel="self" type="application/rss+xml"/>
+<link>https://avanzi.netlify.app/content/publications.html</link>
+<atom:link href="https://avanzi.netlify.app/content/publications.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.6.43</generator>
+<generator>quarto-1.7.29</generator>
 <lastBuildDate>Thu, 10 Apr 2025 14:00:00 GMT</lastBuildDate>
 <item>
   <title>On the evolution of data breach reporting patterns and frequency in the United States: a cross-state analysis, North American Actuarial Journal, in press</title>
-  <link>https://bavanzicv.netlify.app/</link>
+  <link>https://avanzi.netlify.app/</link>
   <description></description>
   <category>Reserving</category>
   <category>Cyber</category>
   <category>ARC DP200101859</category>
-  <guid>https://bavanzicv.netlify.app/</guid>
+  <guid>https://avanzi.netlify.app/</guid>
   <pubDate>Thu, 10 Apr 2025 14:00:00 GMT</pubDate>
 </item>
 <item>
-  <title>Data Science for Actuaries</title>
-  <link>https://bavanzicv.netlify.app/</link>
+  <title>AI Tools for Actuaries</title>
+  <link>https://avanzi.netlify.app/</link>
   <description></description>
   <category>Machine Learning</category>
-  <guid>https://bavanzicv.netlify.app/</guid>
+  <guid>https://avanzi.netlify.app/</guid>
   <pubDate>Sun, 02 Mar 2025 13:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Towards Optimising the Decumulation of Retirement Savings</title>
-  <link>https://bavanzicv.netlify.app/</link>
+  <link>https://avanzi.netlify.app/</link>
   <description></description>
   <category>Pensions and Retirement</category>
   <category>ARC DP200101859</category>
-  <guid>https://bavanzicv.netlify.app/</guid>
+  <guid>https://avanzi.netlify.app/</guid>
   <pubDate>Sun, 10 Nov 2024 13:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Ensemble distributional forecasting for insurance loss reserving</title>
-  <link>https://bavanzicv.netlify.app/</link>
+  <link>https://avanzi.netlify.app/</link>
   <description></description>
   <category>Reserving</category>
   <category>Machine Learning</category>
   <category>R Package</category>
   <category>ARC DP200101859</category>
-  <guid>https://bavanzicv.netlify.app/</guid>
+  <guid>https://avanzi.netlify.app/</guid>
   <pubDate>Tue, 02 Jul 2024 14:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Optimal Strategies for the Decumulation of Retirement Savings under Differing Appetites for Liquidity and Investment Risks</title>
-  <link>https://bavanzicv.netlify.app/</link>
+  <link>https://avanzi.netlify.app/</link>
   <description></description>
   <category>Pensions and Retirement</category>
   <category>ARC DP200101859</category>
-  <guid>https://bavanzicv.netlify.app/</guid>
+  <guid>https://avanzi.netlify.app/</guid>
   <pubDate>Fri, 24 May 2024 14:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Machine learning with high-cardinality categorical features in actuarial applications</title>
-  <link>https://bavanzicv.netlify.app/</link>
+  <link>https://avanzi.netlify.app/</link>
   <description></description>
   <category>Loss Processes</category>
   <category>Machine Learning</category>
   <category>ARC DP200101859</category>
-  <guid>https://bavanzicv.netlify.app/</guid>
+  <guid>https://avanzi.netlify.app/</guid>
   <pubDate>Wed, 10 Apr 2024 14:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Optimal reinsurance design under solvency constraints</title>
-  <link>https://bavanzicv.netlify.app/</link>
+  <link>https://avanzi.netlify.app/</link>
   <description></description>
   <category>Reinsurance</category>
   <category>Optimal Control</category>
   <category>ARC DP200101859</category>
-  <guid>https://bavanzicv.netlify.app/</guid>
+  <guid>https://avanzi.netlify.app/</guid>
   <pubDate>Thu, 05 Oct 2023 13:00:00 GMT</pubDate>
 </item>
 <item>
   <title>On the impact of outliers in loss reserving</title>
-  <link>https://bavanzicv.netlify.app/</link>
+  <link>https://avanzi.netlify.app/</link>
   <description></description>
   <category>Reserving</category>
   <category>ARC LP130100723</category>
   <category>ARC DP200101859</category>
-  <guid>https://bavanzicv.netlify.app/</guid>
+  <guid>https://avanzi.netlify.app/</guid>
   <pubDate>Mon, 04 Sep 2023 14:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Detection and treatment of outliers for multivariate robust loss reserving</title>
-  <link>https://bavanzicv.netlify.app/</link>
+  <link>https://avanzi.netlify.app/</link>
   <description></description>
   <category>Reserving</category>
   <category>Stochastic Dependence</category>
   <category>ARC LP130100723</category>
   <category>ARC DP200101859</category>
-  <guid>https://bavanzicv.netlify.app/</guid>
+  <guid>https://avanzi.netlify.app/</guid>
   <pubDate>Wed, 23 Aug 2023 14:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Stable Dividends under Linear-Quadratic Optimization</title>
-  <link>https://bavanzicv.netlify.app/</link>
+  <link>https://avanzi.netlify.app/</link>
   <description></description>
   <category>Capital Modelling</category>
   <category>Dividends</category>
   <category>Optimal Control</category>
   <category>ARC DP200101859</category>
-  <guid>https://bavanzicv.netlify.app/</guid>
+  <guid>https://avanzi.netlify.app/</guid>
   <pubDate>Sun, 23 Jul 2023 14:00:00 GMT</pubDate>
 </item>
 <item>
   <title>On the surplus management of funds with assets and liabilities in presence of solvency requirements</title>
-  <link>https://bavanzicv.netlify.app/</link>
+  <link>https://avanzi.netlify.app/</link>
   <description></description>
   <category>Capital Modelling</category>
   <category>Dividends</category>
@@ -120,106 +120,106 @@
   <category>Optimal Control</category>
   <category>ARC LP130100723</category>
   <category>ARC DP200101859</category>
-  <guid>https://bavanzicv.netlify.app/</guid>
+  <guid>https://avanzi.netlify.app/</guid>
   <pubDate>Sat, 15 Oct 2022 13:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Stochastic loss reserving with mixture density neural networks</title>
-  <link>https://bavanzicv.netlify.app/</link>
+  <link>https://avanzi.netlify.app/</link>
   <description></description>
   <category>Reserving</category>
   <category>Machine Learning</category>
   <category>ARC LP130100723</category>
   <category>ARC DP200101859</category>
-  <guid>https://bavanzicv.netlify.app/</guid>
+  <guid>https://avanzi.netlify.app/</guid>
   <pubDate>Thu, 30 Jun 2022 14:00:00 GMT</pubDate>
 </item>
 <item>
   <title>SPLICE: a synthetic paid loss and incurred cost experience simulator</title>
-  <link>https://bavanzicv.netlify.app/</link>
+  <link>https://avanzi.netlify.app/</link>
   <description></description>
   <category>Reserving</category>
   <category>R Package</category>
   <category>ARC LP130100723</category>
   <category>ARC DP200101859</category>
-  <guid>https://bavanzicv.netlify.app/</guid>
+  <guid>https://avanzi.netlify.app/</guid>
   <pubDate>Sun, 22 May 2022 14:00:00 GMT</pubDate>
 </item>
 <item>
   <title>On the optimality of joint periodic and extraordinary dividend strategies</title>
-  <link>https://bavanzicv.netlify.app/</link>
+  <link>https://avanzi.netlify.app/</link>
   <description></description>
   <category>Capital Modelling</category>
   <category>Dividends</category>
   <category>Optimal Control</category>
   <category>ARC LP130100723</category>
   <category>ARC DP200101859</category>
-  <guid>https://bavanzicv.netlify.app/</guid>
+  <guid>https://avanzi.netlify.app/</guid>
   <pubDate>Wed, 15 Dec 2021 13:00:00 GMT</pubDate>
 </item>
 <item>
   <title>SynthETIC: An individual insurance claim simulator with feature control</title>
-  <link>https://bavanzicv.netlify.app/</link>
+  <link>https://avanzi.netlify.app/</link>
   <description></description>
   <category>Reserving</category>
   <category>R Package</category>
   <category>ARC LP130100723</category>
   <category>ARC DP200101859</category>
-  <guid>https://bavanzicv.netlify.app/</guid>
+  <guid>https://avanzi.netlify.app/</guid>
   <pubDate>Tue, 31 Aug 2021 14:00:00 GMT</pubDate>
 </item>
 <item>
   <title>A counterexample to the existence of a general central limit theorem for pairwise independent identically distributed random variables</title>
-  <link>https://bavanzicv.netlify.app/</link>
+  <link>https://avanzi.netlify.app/</link>
   <description></description>
   <category>Stochastic Dependence</category>
   <category>ARC LP130100723</category>
   <category>ARC DP200101859</category>
-  <guid>https://bavanzicv.netlify.app/</guid>
+  <guid>https://avanzi.netlify.app/</guid>
   <pubDate>Wed, 30 Jun 2021 14:00:00 GMT</pubDate>
 </item>
 <item>
   <title>On the modelling of multivariate counts with Cox processes and dependent shot noise intensities</title>
-  <link>https://bavanzicv.netlify.app/</link>
+  <link>https://avanzi.netlify.app/</link>
   <description></description>
   <category>Reserving</category>
   <category>Stochastic Dependence</category>
   <category>ARC LP130100723</category>
   <category>ARC DP200101859</category>
-  <guid>https://bavanzicv.netlify.app/</guid>
+  <guid>https://avanzi.netlify.app/</guid>
   <pubDate>Wed, 30 Jun 2021 14:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Modelling and understanding count processes through a Markov-modulated non-homogeneous Poisson process framework</title>
-  <link>https://bavanzicv.netlify.app/</link>
+  <link>https://avanzi.netlify.app/</link>
   <description></description>
   <category>Loss Processes</category>
   <category>ARC LP130100723</category>
   <category>ARC DP200101859</category>
-  <guid>https://bavanzicv.netlify.app/</guid>
+  <guid>https://avanzi.netlify.app/</guid>
   <pubDate>Wed, 31 Mar 2021 13:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Optimal Periodic Dividend Strategies for Spectrally Negative Lévy Risk Processes With Fixed Transaction Costs</title>
-  <link>https://bavanzicv.netlify.app/</link>
+  <link>https://avanzi.netlify.app/</link>
   <description></description>
   <category>Capital Modelling</category>
   <category>Dividends</category>
   <category>Optimal Control</category>
   <category>ARC LP130100723</category>
   <category>ARC DP200101859</category>
-  <guid>https://bavanzicv.netlify.app/</guid>
+  <guid>https://avanzi.netlify.app/</guid>
   <pubDate>Sun, 07 Feb 2021 13:00:00 GMT</pubDate>
 </item>
 <item>
   <title>SynthETIC: A Simulator of Synthetic Experience Tracking Insurance Claims</title>
-  <link>https://bavanzicv.netlify.app/</link>
+  <link>https://avanzi.netlify.app/</link>
   <description></description>
   <category>Reserving</category>
   <category>R Package</category>
   <category>ARC LP130100723</category>
   <category>ARC DP200101859</category>
-  <guid>https://bavanzicv.netlify.app/</guid>
+  <guid>https://avanzi.netlify.app/</guid>
   <pubDate>Sun, 13 Sep 2020 14:00:00 GMT</pubDate>
 </item>
 </channel>
