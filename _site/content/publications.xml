@@ -9,8 +9,16 @@
 <link>https://avanzi.netlify.app/content/publications.html</link>
 <atom:link href="https://avanzi.netlify.app/content/publications.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.7.29</generator>
-<lastBuildDate>Thu, 10 Apr 2025 14:00:00 GMT</lastBuildDate>
+<generator>quarto-1.8.25</generator>
+<lastBuildDate>Thu, 07 Aug 2025 14:00:00 GMT</lastBuildDate>
+<item>
+  <title>AI Tools for Actuaries</title>
+  <link>https://avanzi.netlify.app/</link>
+  <description></description>
+  <category>Machine Learning</category>
+  <guid>https://avanzi.netlify.app/</guid>
+  <pubDate>Thu, 07 Aug 2025 14:00:00 GMT</pubDate>
+</item>
 <item>
   <title>On the evolution of data breach reporting patterns and frequency in the United States: a cross-state analysis, North American Actuarial Journal, in press</title>
   <link>https://avanzi.netlify.app/</link>
@@ -20,14 +28,6 @@
   <category>ARC DP200101859</category>
   <guid>https://avanzi.netlify.app/</guid>
   <pubDate>Thu, 10 Apr 2025 14:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>AI Tools for Actuaries</title>
-  <link>https://avanzi.netlify.app/</link>
-  <description></description>
-  <category>Machine Learning</category>
-  <guid>https://avanzi.netlify.app/</guid>
-  <pubDate>Sun, 02 Mar 2025 13:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Towards Optimising the Decumulation of Retirement Savings</title>

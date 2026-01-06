@@ -20,6 +20,8 @@ website:
         text: "Projects"
       - text: "Websites"
         menu:
+          - href: "https://aitools4actuaries.com/"
+            text: "AI Tools for Actuaries"
           - href: "https://github.com/agi-lab"
             text: "Australian General Insurance lab (paper codes)"
           - href: "https://communicate-data-with-r.netlify.app/"
@@ -32,13 +34,62 @@ website:
             text: "General insurance modelling (ACTL30007/90020)"
       - href: resources/files/bavanziCV.pdf
         text: "CV (pdf)"
-      # - text: "Students"
-      #   menu:
-      #     - href: https://web.maths.unsw.edu.au/~lafaye/
-      #       text: "Dummy Student 1"
-      #
-      #     - href: https://web.maths.unsw.edu.au/~lafaye/
-      #       text: "Dummy Student 2"
+      - text: "Students (past and present)"
+        menu:
+          - href: https://www.linkedin.com/in/atibhav-chaudhry
+            text: "Atibhav Chaudhry (current PhD student)"
+          - href: https://www.unsw.edu.au/hdr/tian-eric-dong
+            text: "Eric (Tian) Dong (current PhD student)"
+          - href: https://www.linkedin.com/in/ho-ming-lee-a24282178
+            text: "Ho Ming Lee (current PhD student)"
+          - href: https://www.unsw.edu.au/hdr/zherui-gerry-li
+            text: "Gerry (Zherui) Li (current PhD student)"
+          - href: https://www.linkedin.com/in/yanfeng-li-46434a188/
+            text: "Jim (Yanfeng) Li (Honours 2021; current PhD student)"
+          - href: https://www.linkedin.com/in/clairetan98/
+            text: "Xingyun (Claire) Tan (MSc 2021; current PhD student)"
+          - href: https://www.linkedin.com/in/yagebu-xie/
+            text: "Yagebu Xie (MSc 2025; current PhD student)"
+          - href: https://www.unsw.edu.au/staff/yunshen-yang
+            text: "Yunshen Yang (PhD 2024)"
+          - href: https://www.linkedin.com/in/matthew-lambrianidis/
+            text: "Matthew Lambrianidis (MSc 2024)"
+          - href: https://www.linkedin.com/in/lewis-de-felice-33747521b/
+            text: "Lewis de Felice (Honours 2023)"
+          - href: https://www.unsw.edu.au/staff/guillaume-boglioni-beaulieu
+            text: "Guillaume Boglioni-Beaulieu (MPhil 2016; PhD 2023)"
+          - href: https://www.linkedin.com/in/alanxian/
+            text: "Alan Xian (Honours 2015; PhD 2022)"
+          - href: https://www.linkedin.com/in/melantha-wang/
+            text: "Melantha (Chenyi) Wang (Honours 2021)"
+          - href: https://www.linkedin.com/in/dyu99/
+            text: "David Yu (Honours 2021)"
+          - href: https://www.linkedin.com/in/hayden-lau-9a137b9b
+            text: "Hayden (Ka Wai) Lau (PhD 2020)"
+          - href: https://www.linkedin.com/in/muhammed-al-mudafer-019941116/
+            text: "Muhammed Al-Mudafer (Honours 2020)"
+          - href: https://www.linkedin.com/in/phuong-anh-vu-actuarial/
+            text: "Phuong Anh Vu (Honours 2013; PhD 2019)"
+          - href: https://www.linkedin.com/in/xinda-yang/
+            text: "Xinda Yang (PhD 2017)"
+          - href: https://www.linkedin.com/in/vincent-tu-b999a459/
+            text: "Vincent Tu (Honours 2012; PhD 2017)"
+          - href: https://www.linkedin.com/in/marklavender24/
+            text: "Mark Lavender (Honours, 2016)"
+          - href: https://www.linkedin.com/in/gwendal-combot-b539717b/
+            text: "Gwendal Combot (MPhil 2015)"
+          - href: https://www.linkedin.com/in/clementyeungaus/
+            text: "Clement Yeung (Honours 2014)"
+          - href: https://www.linkedin.com/in/chung-yu-liu-37213634/
+            text: "Chung-Yu Liu (Honours 2012)"
+          - href: https://www.linkedin.com/in/jamie-t-62a87540/
+            text: "Jamie Tao (Honours 2011)"
+          - href: https://www.linkedin.com/in/tyip18/
+            text: "Timothy Yip (Honours 2011)"
+          - href: https://www.linkedin.com/in/luke-cassar-36901660/
+            text: "Luke Cassar (Honours 2010)"
+          - href: https://www.linkedin.com/in/jon-shen
+            text: "Jonathan Shen (Honours 2010)"
 
 format:
   html:
