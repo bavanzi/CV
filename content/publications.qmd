@@ -34,6 +34,12 @@ format:
       margin-width: 300px
 ---
 
+## Working Papers
+
+Recent working papers can be found on [arXiv (updated with accepted manuscript versions)](https://arxiv.org/a/avanzi_b_1.html).
+
+Older working papers can be found on [SSRN (not updated)](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1091450).
+
 ## Books
 
 :::{#books}

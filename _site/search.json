@@ -102,14 +102,14 @@
     "href": "content/publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Author\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Categories\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\nCategories\n\n\n\n\n\n\n\n\nAug 8, 2025\n\n\nAI Tools for Actuaries\n\n\nWüthrich, Mario V., Richman, R., Avanzi, B., Lindholm, M., Maggi, M., Mayer, M., Schelldorfer, J., Scognamiglio, S.\n\n\nMachine Learning\n\n\n\n\n\n\nNo matching items"
+    "text": "Recent working papers can be found on arXiv (updated with accepted manuscript versions).\nOlder working papers can be found on SSRN (not updated)."
   },
   {
     "objectID": "content/publications.html#books",
     "href": "content/publications.html#books",
     "title": "Publications",
-    "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Author\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Categories\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\nCategories\n\n\n\n\n\n\n\n\nAug 8, 2025\n\n\nAI Tools for Actuaries\n\n\nWüthrich, Mario V., Richman, R., Avanzi, B., Lindholm, M., Maggi, M., Mayer, M., Schelldorfer, J., Scognamiglio, S.\n\n\nMachine Learning\n\n\n\n\n\n\nNo matching items"
+    "section": "Books",
+    "text": "Books\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Author\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Categories\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\nCategories\n\n\n\n\n\n\n\n\nAug 8, 2025\n\n\nAI Tools for Actuaries\n\n\nWüthrich, Mario V., Richman, R., Avanzi, B., Lindholm, M., Maggi, M., Mayer, M., Schelldorfer, J., Scognamiglio, S.\n\n\nMachine Learning\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "content/publications.html#peer-reviewed-publications",
@@ -124,5 +124,12 @@
     "title": "Publications",
     "section": "Non-Academic Publications",
     "text": "Non-Academic Publications\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        outlet\n      \n      \n        Author\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Categories\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\noutlet\n\n\n\nAuthor\n\n\n\nCategories\n\n\n\n\n\n\n\n\nNov 11, 2024\n\n\nTowards Optimising the Decumulation of Retirement Savings\n\n\nActuaries Digital - Nov 2024\n\n\nAvanzi, B., De Felice, L\n\n\nPensions and Retirement, ARC DP200101859\n\n\n\n\n\n\nSep 14, 2020\n\n\nSynthETIC: A Simulator of Synthetic Experience Tracking Insurance Claims\n\n\nKasa AI Blog\n\n\nAvanzi, B., Taylor, G., Wang, M., Wong, B.\n\n\nReserving, R Package, ARC LP130100723, ARC DP200101859\n\n\n\n\n\n\nApr 16, 2019\n\n\nHow to proxy the unmodellable\n\n\nActuaries Digital - Apr 2019\n\n\nAvanzi, B., Taylor, G., Wong, B., Xian, A.\n\n\nLoss Processes, ARC LP130100723, ARC DP200101859\n\n\n\n\n\n\nDec 14, 2016\n\n\nConstruction of detailed correlation structures across GI business segments\n\n\nActuaries Digital - Dec 2016\n\n\nAvanzi, B., Taylor, G., Wong, B.\n\n\nReserving, ARC LP130100723\n\n\n\n\n\n\nSep 30, 2015\n\n\nAre correlations real or imagined?\n\n\nActuaries Digital - Sep 2015\n\n\nAvanzi, B., Taylor, G., Wong, B.\n\n\nReserving, Capital Modelling, Stochastic Dependence, ARC LP130100723\n\n\n\n\n\n\nAug 15, 2014\n\n\nResearch into claim Dependencies: an indsustry and academic collaboration\n\n\nActuaries - August, pp. 9-11\n\n\nAvanzi, B., Taylor, G., Wong, B.\n\n\nReserving, ARC LP130100723\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "content/publications.html#working-papers",
+    "href": "content/publications.html#working-papers",
+    "title": "Publications",
+    "section": "",
+    "text": "Recent working papers can be found on arXiv (updated with accepted manuscript versions).\nOlder working papers can be found on SSRN (not updated)."
   }
 ]
