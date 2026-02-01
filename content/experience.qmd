@@ -3,7 +3,7 @@ title: "Short Biography"
 ---
 
 ## Professional qualifications
-
+ 
 * **FIAA** -- *Fellow of the Institute of Actuaries of Australia*
 * **CERA** -- *Chartered Enterprise Risk Actuary*
 * **GAICD** -- Graduate member of the Australian Institute of Company directors
