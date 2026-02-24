@@ -36,6 +36,8 @@ website:
         text: "CV (pdf)"
       - text: "Students (past and present)"
         menu:
+          - href: https://www.linkedin.com/in/gabrielle-burrell-193063300/
+            text: "Gabrielle Burrell (current Honours student)"
           - href: https://www.linkedin.com/in/atibhav-chaudhry
             text: "Atibhav Chaudhry (current PhD student)"
           - href: https://www.unsw.edu.au/hdr/tian-eric-dong
