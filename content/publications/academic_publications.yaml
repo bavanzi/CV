@@ -1,6 +1,13 @@
+- path: "https://arxiv.org/abs/2406.00998"
+  title: "Distributional Refinement Network: Distributional Forecasting via Deep Learning"
+  journal: "Insurance: Mathematics and Economics, in press"
+  author: "Avanzi, B., Dong, E., Laub, P., Wong, B."
+  date: "25 Mar 2026"
+  categories: [Machine Learning, ARC DP200101859]
+
 - path: "https://doi.org/10.1080/10920277.2025.2457491"
-  title: "On the evolution of data breach reporting patterns and frequency in the United States: a cross-state analysis, North American Actuarial Journal, in press"
-  journal: "North American Actuarial Journal"
+  title: "On the evolution of data breach reporting patterns and frequency in the United States: a cross-state analysis"
+  journal: "North American Actuarial Journal, Vol. 29, Issue 4, pp. 833-864."
   author: "Avanzi, B., Tan, X., Taylor, G., Wong, B."
   date: "11 Apr 2025"
   categories: [Reserving, Cyber, ARC DP200101859]
@@ -14,14 +21,14 @@
 
 - path: "https://doi.org/10.1007/s10203-024-00448-y"
   title: "Optimal Strategies for the Decumulation of Retirement Savings under Differing Appetites for Liquidity and Investment Risks"
-  journal: "Decisions in Economics and Finance, in press"
+  journal: "Decisions in Economics and Finance"
   author: " Avanzi, B., De Felice, L."
   date: "25 May 2024"
   categories: [Pensions and Retirement, ARC DP200101859]
 
 - path: "https://doi.org/10.1017/asb.2024.7"
   title: "Machine learning with high-cardinality categorical features in actuarial applications"
-  journal: "ASTIN Bulletin, Vol. 54, pp.213-238"
+  journal: "ASTIN Bulletin, Vol. 54, pp. 213--238"
   author: " Avanzi, B., Taylor, G., Wang, M., Wong, B."
   date: "11 April 2024"
   categories: [Loss Processes, Machine Learning, ARC DP200101859]
@@ -35,7 +42,7 @@
 
 - path: "https://doi.org/10.1080/03461238.2023.2257405"
   title: "Optimal reinsurance design under solvency constraints"
-  journal: "Scandinavian Actuarial Journal, 2024(4), 383–416"
+  journal: "Scandinavian Actuarial Journal, 2024(4), 383-416"
   author: " Avanzi, B., Lau, H., Steffensen, M."
   date: "06 Oct 2023"
   categories: [Reinsurance, Optimal Control, ARC DP200101859]

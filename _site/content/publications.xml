@@ -9,8 +9,17 @@
 <link>https://avanzi.netlify.app/content/publications.html</link>
 <atom:link href="https://avanzi.netlify.app/content/publications.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.8.25</generator>
-<lastBuildDate>Thu, 07 Aug 2025 14:00:00 GMT</lastBuildDate>
+<generator>quarto-1.8.27</generator>
+<lastBuildDate>Tue, 24 Mar 2026 13:00:00 GMT</lastBuildDate>
+<item>
+  <title>Distributional Refinement Network: Distributional Forecasting via Deep Learning</title>
+  <link>https://avanzi.netlify.app/</link>
+  <description></description>
+  <category>Machine Learning</category>
+  <category>ARC DP200101859</category>
+  <guid>https://avanzi.netlify.app/</guid>
+  <pubDate>Tue, 24 Mar 2026 13:00:00 GMT</pubDate>
+</item>
 <item>
   <title>AI Tools for Actuaries</title>
   <link>https://avanzi.netlify.app/</link>
@@ -20,7 +29,7 @@
   <pubDate>Thu, 07 Aug 2025 14:00:00 GMT</pubDate>
 </item>
 <item>
-  <title>On the evolution of data breach reporting patterns and frequency in the United States: a cross-state analysis, North American Actuarial Journal, in press</title>
+  <title>On the evolution of data breach reporting patterns and frequency in the United States: a cross-state analysis</title>
   <link>https://avanzi.netlify.app/</link>
   <description></description>
   <category>Reserving</category>
@@ -210,17 +219,6 @@
   <category>ARC DP200101859</category>
   <guid>https://avanzi.netlify.app/</guid>
   <pubDate>Sun, 07 Feb 2021 13:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>SynthETIC: A Simulator of Synthetic Experience Tracking Insurance Claims</title>
-  <link>https://avanzi.netlify.app/</link>
-  <description></description>
-  <category>Reserving</category>
-  <category>R Package</category>
-  <category>ARC LP130100723</category>
-  <category>ARC DP200101859</category>
-  <guid>https://avanzi.netlify.app/</guid>
-  <pubDate>Sun, 13 Sep 2020 14:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
