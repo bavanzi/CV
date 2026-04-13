@@ -1,8 +1,8 @@
-- path: "https://arxiv.org/abs/2406.00998"
+- path: "https://doi.org/10.1016/j.insmatheco.2026.103246"
   title: "Distributional Refinement Network: Distributional Forecasting via Deep Learning"
   journal: "Insurance: Mathematics and Economics, in press"
   author: "Avanzi, B., Dong, E., Laub, P., Wong, B."
-  date: "25 Mar 2026"
+  date: "10 Apr 2026"
   categories: [Machine Learning, ARC DP200101859]
 
 - path: "https://doi.org/10.1080/10920277.2025.2457491"
