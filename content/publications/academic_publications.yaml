@@ -1,3 +1,10 @@
+- path: "https://arxiv.org/abs/2508.16444"
+  title: "Dynamic Financial Analysis (DFA) of General Insurers under Climate Change"
+  journal: "ASTIN Bulletin, in press"
+  author: "Avanzi, B., Li, Y., Taylor, G., Wong, B."
+  date: "10 Apr 2026"
+  categories: [Climate Change, ARC DP200101859]
+
 - path: "https://doi.org/10.1016/j.insmatheco.2026.103246"
   title: "Distributional Refinement Network: Distributional Forecasting via Deep Learning"
   journal: "Insurance: Mathematics and Economics, in press"
