@@ -196,7 +196,7 @@
 
 - path: "http://dx.doi.org/10.1016/j.insmatheco.2016.07.002"
   title: "A micro-level claim count model with overdispersion and reporting delays"
-  journal:"Insurance: Mathematics and Economics, Vol. 71, pp. 1-14"
+  journal: "Insurance: Mathematics and Economics, Vol. 71, pp. 1-14"
   author: " Avanzi, B., Wong, B., Yang, X."
   date: "November 2016"
   categories: [Reserving, ARC LP130100723]
