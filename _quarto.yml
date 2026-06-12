@@ -38,8 +38,6 @@ website:
         menu:
           - href: https://www.linkedin.com/in/gabrielle-burrell-193063300/
             text: "Gabrielle Burrell (current Honours student)"
-          - href: https://www.linkedin.com/in/atibhav-chaudhry
-            text: "Atibhav Chaudhry (current PhD student)"
           - href: https://www.unsw.edu.au/hdr/tian-eric-dong
             text: "Eric (Tian) Dong (current PhD student)"
           - href: https://www.linkedin.com/in/edmondgao/
@@ -50,10 +48,12 @@ website:
             text: "Gerry (Zherui) Li (current PhD student)"
           - href: https://www.linkedin.com/in/yanfeng-li-46434a188/
             text: "Jim (Yanfeng) Li (Honours 2021; current PhD student)"
-          - href: https://www.linkedin.com/in/clairetan98/
-            text: "Xingyun (Claire) Tan (MSc 2021; current PhD student)"
           - href: https://www.linkedin.com/in/yagebu-xie/
             text: "Yagebu Xie (MSc 2025; current PhD student)"
+          - href: https://www.linkedin.com/in/atibhav-chaudhry
+            text: "Atibhav Chaudhry (PhD 2026)"
+          - href: https://www.linkedin.com/in/clairetan98/
+            text: "Xingyun (Claire) Tan (MSc 2021; PhD 2026)"
           - href: https://www.unsw.edu.au/staff/yunshen-yang
             text: "Yunshen Yang (PhD 2024)"
           - href: https://www.linkedin.com/in/matthew-lambrianidis/
