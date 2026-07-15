@@ -10,7 +10,16 @@
 <atom:link href="https://avanzi.netlify.app/content/publications.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.8.27</generator>
-<lastBuildDate>Thu, 09 Apr 2026 14:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 14 Jul 2026 14:00:00 GMT</lastBuildDate>
+<item>
+  <title>When Indemnity Insurance Fails: Parametric Coverage under Binding Budget and Risk Constraints</title>
+  <link>https://avanzi.netlify.app/</link>
+  <description></description>
+  <category>Climate Change</category>
+  <category>ARC DP200101859</category>
+  <guid>https://avanzi.netlify.app/</guid>
+  <pubDate>Tue, 14 Jul 2026 14:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Dynamic Financial Analysis (DFA) of General Insurers under Climate Change</title>
   <link>https://avanzi.netlify.app/</link>
@@ -206,16 +215,6 @@
   <category>ARC DP200101859</category>
   <guid>https://avanzi.netlify.app/</guid>
   <pubDate>Wed, 30 Jun 2021 14:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Modelling and understanding count processes through a Markov-modulated non-homogeneous Poisson process framework</title>
-  <link>https://avanzi.netlify.app/</link>
-  <description></description>
-  <category>Loss Processes</category>
-  <category>ARC LP130100723</category>
-  <category>ARC DP200101859</category>
-  <guid>https://avanzi.netlify.app/</guid>
-  <pubDate>Wed, 31 Mar 2021 13:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

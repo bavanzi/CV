@@ -1,3 +1,10 @@
+- path: "http://dx.doi.org/10.1111/jori.70070"
+  title: "When Indemnity Insurance Fails: Parametric Coverage under Binding Budget and Risk Constraints"
+  journal: "Journal of Risk and Insurance, in press"
+  author: "Avanzi, B., Kusch Falden, D., Steffensen, M."
+  date: "15 Jul 2026"
+  categories: [Climate Change, ARC DP200101859]
+
 - path: "https://doi.org/10.1017/asb.2026.10102"
   title: "Dynamic Financial Analysis (DFA) of General Insurers under Climate Change"
   journal: "ASTIN Bulletin, in press"
@@ -7,7 +14,7 @@
 
 - path: "https://doi.org/10.1016/j.insmatheco.2026.103246"
   title: "Distributional Refinement Network: Distributional Forecasting via Deep Learning"
-  journal: "Insurance: Mathematics and Economics, in press"
+  journal: "Insurance: Mathematics and Economics, Vol. 128, 103246."
   author: "Avanzi, B., Dong, E., Laub, P., Wong, B."
   date: "10 Apr 2026"
   categories: [Machine Learning, ARC DP200101859]
