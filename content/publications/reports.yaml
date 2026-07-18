@@ -1,0 +1,20 @@
+- path: "https://www.naturalhazards.com.au/resources/publications/report/evaluation-resilient-homes-fund"
+  title: "Evaluation of the Resilient Homes Fund"
+  outlet: "Natural Hazards Research Australia, Report 70.2026. ISBN 978-1-923057-53-1"
+  author: "Jarzabkowski P., Riordan, T., Gallagher, R., Pham W., Avanzi, B., Mason M., Rambaldi A., Zahnow R. , Johnson L., Wyeth S, Deng R., Taylor N., Xie Y."
+  date: "1 Jun 2026"
+  categories: [Climate Change]
+
+- path: "http://www.casact.org/research/dare/index.cfm?fa=view&abstrID=7195"
+  title: "Data & Technology Working Party Report"
+  outlet: "Casualty Actuarial Society Forum, Fall 2016"
+  author: "Bothwell, P. T., Kannon M. J., Avanzi, B., Izzo, J. M., Knobloch, S. A., Nichols, R. S., Norris, J. L., Pan, Y., Semenovich, D., Spadola, T. A., Waite, L. M., Yarnell, D. H."
+  date: "1 Oct 2016"
+  categories: [Machine Learning]
+
+- path: "http://morneaushepell.mediaroom.com/2015-09-01-Morneau-Shepell-mortality-study-useful-in-the-valuation-of-Quebec-municipal-pension-plans"
+  title: "Adjustment of CIA Mortality"
+  outlet: "Report commissioned by Morneau Shepell (Montréal, Canada)"
+  author: "Avanzi, B., Gagné, C."
+  date: "1 Oct 2015"
+  categories: [Mortality]

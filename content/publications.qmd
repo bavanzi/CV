@@ -17,6 +17,14 @@ listing:
     feed: true
     fields: [date, title, journal, author, categories]
     
+  - id: reports
+    contents: publications/reports.yaml
+    sort: "date desc"
+    type: table
+    categories: numbered
+    feed: true
+    fields: [date, title, journal, author, categories]
+
   - id: other-publications
     contents: publications/other_publications.yaml
     sort: "date desc"
@@ -48,6 +56,11 @@ Older working papers can be found on [SSRN (not updated)](https://papers.ssrn.co
 ## Peer-Reviewed Publications
 
 :::{#peer-reviewed-publications}
+:::
+
+## Reports
+
+:::{#reports}
 :::
 
 ## Non-Academic Publications

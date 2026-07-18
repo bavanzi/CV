@@ -130,6 +130,34 @@ ul.task-list li input[type="checkbox"] {
   
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-reports .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-journal','listing-author','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-title-sort'] },{ data: ['listing-date-sort'] }],
+      
+      searchColumns: ["listing-title","listing-outlet","listing-author","listing-date","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-reports'] = new List('listing-reports', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
     const listingTargetEl = window.document.querySelector('#listing-other-publications .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
@@ -404,10 +432,11 @@ window.Quarto = {
   <li><a href="#working-papers" id="toc-working-papers" class="nav-link active" data-scroll-target="#working-papers">Working Papers</a></li>
   <li><a href="#books" id="toc-books" class="nav-link" data-scroll-target="#books">Books</a></li>
   <li><a href="#peer-reviewed-publications" id="toc-peer-reviewed-publications" class="nav-link" data-scroll-target="#peer-reviewed-publications">Peer-Reviewed Publications</a></li>
+  <li><a href="#reports" id="toc-reports" class="nav-link" data-scroll-target="#reports">Reports</a></li>
   <li><a href="#non-academic-publications" id="toc-non-academic-publications" class="nav-link" data-scroll-target="#non-academic-publications">Non-Academic Publications</a></li>
   </ul>
 </nav>
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(53)</span></div><div class="category" data-category="QVJDJTIwRFAyMDAxMDE4NTk=">ARC DP200101859 <span class="quarto-category-count">(26)</span></div><div class="category" data-category="QVJDJTIwTFAxMzAxMDA3MjM=">ARC LP130100723 <span class="quarto-category-count">(29)</span></div><div class="category" data-category="Q2FwaXRhbCUyME1vZGVsbGluZw==">Capital Modelling <span class="quarto-category-count">(18)</span></div><div class="category" data-category="Q2xpbWF0ZSUyMENoYW5nZQ==">Climate Change <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Q3liZXI=">Cyber <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RGl2aWRlbmRz">Dividends <span class="quarto-category-count">(17)</span></div><div class="category" data-category="TG9zcyUyMFByb2Nlc3Nlcw==">Loss Processes <span class="quarto-category-count">(5)</span></div><div class="category" data-category="TWFjaGluZSUyMExlYXJuaW5n">Machine Learning <span class="quarto-category-count">(5)</span></div><div class="category" data-category="T3BlcmF0aW9ucyUyME1hbmFnZW1lbnQ=">Operations Management <span class="quarto-category-count">(3)</span></div><div class="category" data-category="T3B0aW1hbCUyMENvbnRyb2w=">Optimal Control <span class="quarto-category-count">(15)</span></div><div class="category" data-category="UGVuc2lvbnMlMjBhbmQlMjBSZXRpcmVtZW50">Pensions and Retirement <span class="quarto-category-count">(6)</span></div><div class="category" data-category="UiUyMFBhY2thZ2U=">R Package <span class="quarto-category-count">(4)</span></div><div class="category" data-category="UmVpbnN1cmFuY2U=">Reinsurance <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UmVzZXJ2aW5n">Reserving <span class="quarto-category-count">(18)</span></div><div class="category" data-category="U3RvY2hhc3RpYyUyMERlcGVuZGVuY2U=">Stochastic Dependence <span class="quarto-category-count">(11)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(56)</span></div><div class="category" data-category="QVJDJTIwRFAyMDAxMDE4NTk=">ARC DP200101859 <span class="quarto-category-count">(23)</span></div><div class="category" data-category="QVJDJTIwTFAxMzAxMDA3MjM=">ARC LP130100723 <span class="quarto-category-count">(29)</span></div><div class="category" data-category="Q2FwaXRhbCUyME1vZGVsbGluZw==">Capital Modelling <span class="quarto-category-count">(18)</span></div><div class="category" data-category="Q2xpbWF0ZSUyMENoYW5nZQ==">Climate Change <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Q3liZXI=">Cyber <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RGl2aWRlbmRz">Dividends <span class="quarto-category-count">(17)</span></div><div class="category" data-category="TG9zcyUyMFByb2Nlc3Nlcw==">Loss Processes <span class="quarto-category-count">(5)</span></div><div class="category" data-category="TWFjaGluZSUyMExlYXJuaW5n">Machine Learning <span class="quarto-category-count">(6)</span></div><div class="category" data-category="TW9ydGFsaXR5">Mortality <span class="quarto-category-count">(1)</span></div><div class="category" data-category="T3BlcmF0aW9ucyUyME1hbmFnZW1lbnQ=">Operations Management <span class="quarto-category-count">(3)</span></div><div class="category" data-category="T3B0aW1hbCUyMENvbnRyb2w=">Optimal Control <span class="quarto-category-count">(15)</span></div><div class="category" data-category="UGVuc2lvbnMlMjBhbmQlMjBSZXRpcmVtZW50">Pensions and Retirement <span class="quarto-category-count">(6)</span></div><div class="category" data-category="UiUyMFBhY2thZ2U=">R Package <span class="quarto-category-count">(4)</span></div><div class="category" data-category="UmVpbnN1cmFuY2U=">Reinsurance <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UmVzZXJ2aW5n">Reserving <span class="quarto-category-count">(18)</span></div><div class="category" data-category="U3RvY2hhc3RpYyUyMERlcGVuZGVuY2U=">Stochastic Dependence <span class="quarto-category-count">(11)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -953,7 +982,7 @@ window.Quarto = {
 
 </tr>
 
-<tr data-index="20" data-categories="UmVzZXJ2aW5nJTJDU3RvY2hhc3RpYyUyMERlcGVuZGVuY2UlMkNBUkMlMjBMUDEzMDEwMDcyMyUyQ0FSQyUyMERQMjAwMTAxODU5" data-listing-date-sort="1595772000000" data-listing-title-sort="On Unbalanced Data and Common Shock Models in Stochastic Loss Reserving">
+<tr data-index="20" data-categories="UmVzZXJ2aW5nJTJDU3RvY2hhc3RpYyUyMERlcGVuZGVuY2UlMkNBUkMlMjBMUDEzMDEwMDcyMw==" data-listing-date-sort="1595772000000" data-listing-title-sort="On Unbalanced Data and Common Shock Models in Stochastic Loss Reserving">
 <td>
 <span class="listing-date">Jul 27, 2020</span>
 </td>
@@ -967,12 +996,12 @@ window.Quarto = {
 <span class="listing-author"> Avanzi, B., Taylor, B., Vu, P. A., Wong, B.</span>
 </td>
 <td>
-<span class="listing-categories">Reserving, Stochastic Dependence, ARC LP130100723, ARC DP200101859</span>
+<span class="listing-categories">Reserving, Stochastic Dependence, ARC LP130100723</span>
 </td>
 
 </tr>
 
-<tr data-index="21" data-categories="Q2FwaXRhbCUyME1vZGVsbGluZyUyQ0RpdmlkZW5kcyUyQ09wdGltYWwlMjBDb250cm9sJTJDQVJDJTIwTFAxMzAxMDA3MjMlMkNBUkMlMjBEUDIwMDEwMTg1OQ==" data-listing-date-sort="1593525600000" data-listing-title-sort="Optimal Periodic Dividend Strategies for Spectrally Positive Lévy Risk Processes With Fixed Transaction Costs">
+<tr data-index="21" data-categories="Q2FwaXRhbCUyME1vZGVsbGluZyUyQ0RpdmlkZW5kcyUyQ09wdGltYWwlMjBDb250cm9sJTJDQVJDJTIwTFAxMzAxMDA3MjM=" data-listing-date-sort="1593525600000" data-listing-title-sort="Optimal Periodic Dividend Strategies for Spectrally Positive Lévy Risk Processes With Fixed Transaction Costs">
 <td>
 <span class="listing-date">Jul 1, 2020</span>
 </td>
@@ -986,12 +1015,12 @@ window.Quarto = {
 <span class="listing-author"> Avanzi, B., Lau, H.., Wong, B.</span>
 </td>
 <td>
-<span class="listing-categories">Capital Modelling, Dividends, Optimal Control, ARC LP130100723, ARC DP200101859</span>
+<span class="listing-categories">Capital Modelling, Dividends, Optimal Control, ARC LP130100723</span>
 </td>
 
 </tr>
 
-<tr data-index="22" data-categories="UmVzZXJ2aW5nJTJDU3RvY2hhc3RpYyUyMERlcGVuZGVuY2UlMkNBUkMlMjBMUDEzMDEwMDcyMyUyQ0FSQyUyMERQMjAwMTAxODU5" data-listing-date-sort="1593525600000" data-listing-title-sort="A Multivariate Evolutionary Generalised Linear Model Framework with Adaptive Estimation for Claims Reserving">
+<tr data-index="22" data-categories="UmVzZXJ2aW5nJTJDU3RvY2hhc3RpYyUyMERlcGVuZGVuY2UlMkNBUkMlMjBMUDEzMDEwMDcyMw==" data-listing-date-sort="1593525600000" data-listing-title-sort="A Multivariate Evolutionary Generalised Linear Model Framework with Adaptive Estimation for Claims Reserving">
 <td>
 <span class="listing-date">Jul 1, 2020</span>
 </td>
@@ -1005,7 +1034,7 @@ window.Quarto = {
 <span class="listing-author"> Avanzi, B., Taylor, B., Vu P. A., Wong, B.</span>
 </td>
 <td>
-<span class="listing-categories">Reserving, Stochastic Dependence, ARC LP130100723, ARC DP200101859</span>
+<span class="listing-categories">Reserving, Stochastic Dependence, ARC LP130100723</span>
 </td>
 
 </tr>
@@ -1453,6 +1482,127 @@ window.Quarto = {
 <nav id="peer-reviewed-publications-pagination" class="listing-pagination" aria-label="Page Navigation">
   <ul class="pagination"></ul>
 </nav>
+</div>
+</section>
+<section id="reports" class="level2">
+<h2 class="anchored" data-anchor-id="reports">Reports</h2>
+<div id="listing-reports" class="quarto-listing quarto-listing-container-table">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+    <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+    <select id="listing-reports-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-reports'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+      <option value="" disabled="" selected="" hidden="">Order By</option>
+      <option value="index" data-direction="asc">Default</option>
+      <option value="listing-title-sort" data-direction="asc">
+        Title
+      </option>
+      <option value="listing-author" data-direction="asc">
+        Author
+      </option>
+      <option value="listing-date-sort" data-direction="asc">
+        Date - Oldest
+      </option>
+      <option value="listing-date-sort" data-direction="desc">
+        Date - Newest
+      </option>
+      <option value="listing-categories" data-direction="asc">
+        Categories
+      </option>
+    </select>
+  </div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
+<table class="quarto-listing-table table">
+<thead>
+<tr>
+
+<th>
+<a class="sort" data-sort="listing-date-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Date</a>
+</th>
+
+<th>
+<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
+</th>
+
+<th>
+journal
+</th>
+
+<th>
+<a class="sort" data-sort="listing-author" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Author</a>
+</th>
+
+<th>
+<a class="sort" data-sort="listing-categories" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Categories</a>
+</th>
+
+</tr>
+</thead>
+<tbody class="list">
+
+<tr data-index="0" data-categories="Q2xpbWF0ZSUyMENoYW5nZQ==" data-listing-date-sort="1780236000000" data-listing-title-sort="Evaluation of the Resilient Homes Fund">
+<td>
+<span class="listing-date">Jun 1, 2026</span>
+</td>
+<td>
+<a href="https://www.naturalhazards.com.au/resources/publications/report/evaluation-resilient-homes-fund" class="title listing-title">Evaluation of the Resilient Homes Fund</a>
+</td>
+<td>
+<span class="listing-journal">&nbsp;</span>
+</td>
+<td>
+<span class="listing-author">Jarzabkowski P., Riordan, T., Gallagher, R., Pham W., Avanzi, B., Mason M., Rambaldi A., Zahnow R. , Johnson L., Wyeth S, Deng R., Taylor N., Xie Y.</span>
+</td>
+<td>
+<span class="listing-categories">Climate Change</span>
+</td>
+
+</tr>
+
+<tr data-index="1" data-categories="TWFjaGluZSUyMExlYXJuaW5n" data-listing-date-sort="1475244000000" data-listing-title-sort="Data &amp; Technology Working Party Report">
+<td>
+<span class="listing-date">Oct 1, 2016</span>
+</td>
+<td>
+<a href="http://www.casact.org/research/dare/index.cfm?fa=view&amp;abstrID=7195" class="title listing-title">Data &amp; Technology Working Party Report</a>
+</td>
+<td>
+<span class="listing-journal">&nbsp;</span>
+</td>
+<td>
+<span class="listing-author">Bothwell, P. T., Kannon M. J., Avanzi, B., Izzo, J. M., Knobloch, S. A., Nichols, R. S., Norris, J. L., Pan, Y., Semenovich, D., Spadola, T. A., Waite, L. M., Yarnell, D. H.</span>
+</td>
+<td>
+<span class="listing-categories">Machine Learning</span>
+</td>
+
+</tr>
+
+<tr data-index="2" data-categories="TW9ydGFsaXR5" data-listing-date-sort="1443621600000" data-listing-title-sort="Adjustment of CIA Mortality">
+<td>
+<span class="listing-date">Oct 1, 2015</span>
+</td>
+<td>
+<a href="http://morneaushepell.mediaroom.com/2015-09-01-Morneau-Shepell-mortality-study-useful-in-the-valuation-of-Quebec-municipal-pension-plans" class="title listing-title">Adjustment of CIA Mortality</a>
+</td>
+<td>
+<span class="listing-journal">&nbsp;</span>
+</td>
+<td>
+<span class="listing-author">Avanzi, B., Gagné, C.</span>
+</td>
+<td>
+<span class="listing-categories">Mortality</span>
+</td>
+
+</tr>
+
+</tbody>
+</table>
+<div class="listing-no-matching d-none">No matching items</div>
 </div>
 </section>
 <section id="non-academic-publications" class="level2">

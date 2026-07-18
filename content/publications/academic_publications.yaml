@@ -143,21 +143,21 @@
   journal: "Annals of Actuarial Science, Vol. 15, Issue 1, pp. 173-203"
   author: " Avanzi, B., Taylor, B., Vu, P. A., Wong, B."
   date: "27 July 2020"
-  categories: [Reserving, Stochastic Dependence, ARC LP130100723, ARC DP200101859]
+  categories: [Reserving, Stochastic Dependence, ARC LP130100723]
 
 - path: "https://doi.org/10.1016/j.insmatheco.2020.05.012"
   title: "Optimal Periodic Dividend Strategies for Spectrally Positive Lévy Risk Processes With Fixed Transaction Costs"
   journal: "Insurance: Mathematics and Economics, Vol. 93, pp. 315-332"
   author: " Avanzi, B., Lau, H.., Wong, B."
   date: "July 2020"
-  categories: [Capital Modelling, Dividends, Optimal Control, ARC LP130100723, ARC DP200101859]
+  categories: [Capital Modelling, Dividends, Optimal Control, ARC LP130100723]
 
 - path: "https://doi.org/10.1016/j.insmatheco.2020.04.007"
   title: "A Multivariate Evolutionary Generalised Linear Model Framework with Adaptive Estimation for Claims Reserving"
   journal: "Insurance: Mathematics and Economics, Vol. 93, pp. 50-71"
   author: " Avanzi, B., Taylor, B., Vu P. A., Wong, B."
   date: "July 2020"
-  categories: [Reserving, Stochastic Dependence, ARC LP130100723, ARC DP200101859]
+  categories: [Reserving, Stochastic Dependence, ARC LP130100723]
 
 - path: "https://doi.org/10.1017/asb.2018.18"
   title: "Common shock models for claim arrays"
