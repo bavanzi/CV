@@ -36,8 +36,6 @@ website:
         text: "CV (pdf)"
       - text: "Students (past and present)"
         menu:
-          - href: https://www.linkedin.com/in/gabrielle-burrell-193063300/
-            text: "Gabrielle Burrell (current Honours student)"
           - href: https://www.linkedin.com/in/yanjun-jin-b81a31354/
             text: "Yanjun Jin (current Masters student)"
           - href: https://www.unsw.edu.au/hdr/tian-eric-dong
@@ -56,6 +54,8 @@ website:
             text: "Atibhav Chaudhry (PhD 2026)"
           - href: https://www.linkedin.com/in/clairetan98/
             text: "Xingyun (Claire) Tan (MSc 2021; PhD 2026)"
+          - href: https://www.linkedin.com/in/gabrielle-burrell-193063300/
+            text: "Gabrielle Burrell (Honours 2026)"
           - href: https://www.unsw.edu.au/staff/yunshen-yang
             text: "Yunshen Yang (PhD 2024)"
           - href: https://www.linkedin.com/in/matthew-lambrianidis/
@@ -67,7 +67,7 @@ website:
           - href: https://www.linkedin.com/in/alanxian/
             text: "Alan Xian (Honours 2015; PhD 2022)"
           - href: https://www.linkedin.com/in/melantha-wang/
-            text: "Melantha (Chenyi) Wang (Honours 2021)"
+            text: "Melantha (Chenyi) Wang (Honours 2022)"
           - href: https://www.linkedin.com/in/dyu99/
             text: "David Yu (Honours 2021)"
           - href: https://www.linkedin.com/in/hayden-lau-9a137b9b

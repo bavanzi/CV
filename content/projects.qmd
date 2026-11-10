@@ -14,6 +14,13 @@ listing:
     type: default
     categories: true
     feed: true
+
+  - id: internal-grants
+    contents: projects/internal-grants.yaml
+    sort: "date desc"
+    type: default
+    categories: true
+    feed: true
     
 ---
 
@@ -25,6 +32,11 @@ listing:
 ## Other External Funding
 
 :::{#other-grants}
+:::
+
+## University Funding
+
+:::{#internal-grants}
 :::
 
  

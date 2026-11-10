@@ -126,6 +126,34 @@ ul.task-list li input[type="checkbox"] {
       window['quarto-listing-loaded']();
     }
   })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-internal-grants .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-description','listing-Investigators','listing-date','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-description","listing-Investigators","listing-date","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-internal-grants'] = new List('listing-internal-grants', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
   </script>
 
   <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
@@ -235,10 +263,6 @@ window.Quarto = {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-students-(past-and-present">    
         <li>
-    <a class="dropdown-item" href="https://www.linkedin.com/in/gabrielle-burrell-193063300/">
- <span class="dropdown-text">Gabrielle Burrell (current Honours student)</span></a>
-  </li>  
-        <li>
     <a class="dropdown-item" href="https://www.linkedin.com/in/yanjun-jin-b81a31354/">
  <span class="dropdown-text">Yanjun Jin (current Masters student)</span></a>
   </li>  
@@ -275,6 +299,10 @@ window.Quarto = {
  <span class="dropdown-text">Xingyun (Claire) Tan (MSc 2021; PhD 2026)</span></a>
   </li>  
         <li>
+    <a class="dropdown-item" href="https://www.linkedin.com/in/gabrielle-burrell-193063300/">
+ <span class="dropdown-text">Gabrielle Burrell (Honours 2026)</span></a>
+  </li>  
+        <li>
     <a class="dropdown-item" href="https://www.unsw.edu.au/staff/yunshen-yang">
  <span class="dropdown-text">Yunshen Yang (PhD 2024)</span></a>
   </li>  
@@ -296,7 +324,7 @@ window.Quarto = {
   </li>  
         <li>
     <a class="dropdown-item" href="https://www.linkedin.com/in/melantha-wang/">
- <span class="dropdown-text">Melantha (Chenyi) Wang (Honours 2021)</span></a>
+ <span class="dropdown-text">Melantha (Chenyi) Wang (Honours 2022)</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="https://www.linkedin.com/in/dyu99/">
@@ -374,9 +402,10 @@ window.Quarto = {
   <ul>
   <li><a href="#national-competitive-grants" id="toc-national-competitive-grants" class="nav-link active" data-scroll-target="#national-competitive-grants">National Competitive Grants</a></li>
   <li><a href="#other-external-funding" id="toc-other-external-funding" class="nav-link" data-scroll-target="#other-external-funding">Other External Funding</a></li>
+  <li><a href="#university-funding" id="toc-university-funding" class="nav-link" data-scroll-target="#university-funding">University Funding</a></li>
   </ul>
 </nav>
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(10)</span></div><div class="category" data-category="QVJDJTIwKEF1c3RyYWxpYW4lMjBOYXRpb25hbCUyMENvbXBldGl0aXZlKQ==">ARC (Australian National Competitive) <span class="quarto-category-count">(2)</span></div><div class="category" data-category="SW5kdXN0cnklMjBDb21wZXRpdGl2ZQ==">Industry Competitive <span class="quarto-category-count">(3)</span></div><div class="category" data-category="TlNFUkMlMjAoQ2FuYWRpYW4lMjBOYXRpb25hbCUyMENvbXBldGl0aXZlKQ==">NSERC (Canadian National Competitive) <span class="quarto-category-count">(1)</span></div><div class="category" data-category="T3RoZXIlMjBFeHRlcm5hbCUyMENvbXBldGl0aXZl">Other External Competitive <span class="quarto-category-count">(3)</span></div><div class="category" data-category="UmVzZWFyY2glMjBDb250cmFjdHM=">Research Contracts <span class="quarto-category-count">(2)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(12)</span></div><div class="category" data-category="QVJDJTIwKEF1c3RyYWxpYW4lMjBOYXRpb25hbCUyMENvbXBldGl0aXZlKQ==">ARC (Australian National Competitive) <span class="quarto-category-count">(2)</span></div><div class="category" data-category="SW5kdXN0cnklMjBDb21wZXRpdGl2ZQ==">Industry Competitive <span class="quarto-category-count">(3)</span></div><div class="category" data-category="SW50ZXJuYWwlMjBDb21wZXRpdGl2ZQ==">Internal Competitive <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TGVhcm5pbmclMjBhbmQlMjBUZWFjaGluZw==">Learning and Teaching <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TlNFUkMlMjAoQ2FuYWRpYW4lMjBOYXRpb25hbCUyMENvbXBldGl0aXZlKQ==">NSERC (Canadian National Competitive) <span class="quarto-category-count">(1)</span></div><div class="category" data-category="T3RoZXIlMjBFeHRlcm5hbCUyMENvbXBldGl0aXZl">Other External Competitive <span class="quarto-category-count">(3)</span></div><div class="category" data-category="UmVzZWFyY2glMjBDb250cmFjdHM=">Research Contracts <span class="quarto-category-count">(2)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -456,7 +485,7 @@ Dr Benjamin Avanzi
 <div class="quarto-post image-right" data-index="2" data-categories="QVJDJTIwKEF1c3RyYWxpYW4lMjBOYXRpb25hbCUyMENvbXBldGl0aXZlKSUyQ090aGVyJTIwRXh0ZXJuYWwlMjBDb21wZXRpdGl2ZQ==" data-listing-date-sort="1372600800000">
 <div class="body">
 <h3 class="no-anchor listing-title">
-<a href="https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP200101859" class="no-external">(2013-2020) Modelling claim dependencies for the general insurance industry with economic capital in view (LP130100723)</a>
+<a href="https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/LP130100723" class="no-external">(2013-2020) Modelling claim dependencies for the general insurance industry with economic capital in view (LP130100723)</a>
 </h3>
 <div class="listing-categories">
 
@@ -465,12 +494,12 @@ Dr Benjamin Avanzi
 <div class="listing-category" onclick="window.quartoListingCategory('T3RoZXIlMjBFeHRlcm5hbCUyMENvbXBldGl0aXZl'); return false;">Other External Competitive</div>
 
 </div>
-<div class="delink listing-description"><a href="https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP200101859" class="no-external">
+<div class="delink listing-description"><a href="https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/LP130100723" class="no-external">
 <p>An innovative approach with stochastic processes. This project will develop and enhance multi-dimensional models used to describe and assess the risks borne by general insurers. These innovative methods, which will be directly applicable by the industry, will strengthen the efficiency and the safety of the Australian economy.</p>
 </a></div>
 </div>
 <div class="metadata">
-<a href="https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP200101859" class="no-external">
+<a href="https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/LP130100723" class="no-external">
 <div class="listing-date">
 Jul 1, 2013
 </div>
@@ -541,7 +570,7 @@ Lead investigator: Professor Greg Taylor (UNSW), in collaboration with Professor
 <div class="quarto-post image-right" data-index="2" data-categories="T3RoZXIlMjBFeHRlcm5hbCUyMENvbXBldGl0aXZl" data-listing-date-sort="1704027600000">
 <div class="body">
 <h3 class="no-anchor listing-title">
-<a href="https://www.naturalhazards.com.au/research/research-projects/evaluating-resilient-homes-fund" class="no-external">(2024-2027) Natural Hazards Research Australia (NHRA) Project T4-A6: Evaluating the Resilient Homes Fund</a>
+<a href="https://www.naturalhazards.com.au/research/research-projects/evaluating-resilient-homes-fund" class="no-external">(2024-2027) Natural Hazards Research Australia (NHRA) Projects T4-A6a: Evaluating the Resilient Homes Fund (QLD component) and T4-A6b: Evaluating the Resilient Homes Program (NSW component)</a>
 </h3>
 <div class="listing-categories">
 
@@ -549,7 +578,7 @@ Lead investigator: Professor Greg Taylor (UNSW), in collaboration with Professor
 
 </div>
 <div class="delink listing-description"><a href="https://www.naturalhazards.com.au/research/research-projects/evaluating-resilient-homes-fund" class="no-external">
-<p>Co-funded by the Queensland Reconstruction Authority and Natural Hazards Research Australia, this project evaluates Queensland’s Resilient Homes Fund, addressing four dimensions of resilience (physical, financial, social, and emotional) by assessing buy-back, retrofit and house-raising, to demonstrate the success factors and lessons learnt for each as they link to the four resilience dimensions.</p>
+<p>Co-funded by the Queensland Reconstruction Authority and Natural Hazards Research Australia, this project evaluates Queensland’s Resilient Homes Fund, addressing four dimensions of resilience (physical, financial, social, and emotional) by assessing buy-back, retrofit and house-raising, to demonstrate the success factors and lessons learnt for each as they link to the four resilience dimensions. A second component evaluates the NSW Resilient Homes Program, with the NSW Reconstruction Authority as strategic partner.</p>
 </a></div>
 </div>
 <div class="metadata">
@@ -558,7 +587,7 @@ Lead investigator: Professor Greg Taylor (UNSW), in collaboration with Professor
 Jan 1, 2024
 </div>
 <div class="metadata-value listing-Investigators">
-Prof Paula Jarzabkowski, Dr Matthew Mason, Dr Katie Messner, Prof Alicia Rambaldi, Prof Benjamin Avanzi
+Chief Investigator: Prof Paula Jarzabkowski (UQ). Named researchers on both components: Prof Benjamin Avanzi (University of Melbourne), A/Prof Matthew Mason (UQ). QLD component: Dr Katie Meissner, Dr Laurel Johnson, A/Prof Stephanie Wyeth, Prof Alicia Rambaldi (UQ). NSW component: Dr Tyler Riordan, Dr Renee Zahnow (UQ)
 </div>
 </a>
 </div>
@@ -613,10 +642,10 @@ Chief Investigator (with Greg Taylor and Bernard Wong)
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="5" data-categories="SW5kdXN0cnklMjBDb21wZXRpdGl2ZQ==" data-listing-date-sort="1356958800000">
+<div class="quarto-post image-right" data-index="5" data-categories="SW5kdXN0cnklMjBDb21wZXRpdGl2ZQ==" data-listing-date-sort="1325336400000">
 <div class="body">
 <h3 class="no-anchor listing-title">
-<a href="" class="no-external">(2013-2013) An innovative approach to stochastic claims reserving with dependence</a>
+<a href="" class="no-external">(2012-2013) An innovative approach to stochastic claims reserving with dependence</a>
 </h3>
 <div class="listing-categories">
 
@@ -630,7 +659,7 @@ Chief Investigator (with Greg Taylor and Bernard Wong)
 <div class="metadata">
 <a href="" class="no-external">
 <div class="listing-date">
-Jan 1, 2013
+Jan 1, 2012
 </div>
 <div class="metadata-value listing-Investigators">
 Chief Investigator (with Greg Taylor and Bernard Wong)
@@ -638,10 +667,10 @@ Chief Investigator (with Greg Taylor and Bernard Wong)
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="6" data-categories="SW5kdXN0cnklMjBDb21wZXRpdGl2ZQ==" data-listing-date-sort="1293800400000">
+<div class="quarto-post image-right" data-index="6" data-categories="SW5kdXN0cnklMjBDb21wZXRpdGl2ZQ==" data-listing-date-sort="1262264400000">
 <div class="body">
 <h3 class="no-anchor listing-title">
-<a href="" class="no-external">(2011-2011) An innovative approach to stochastic claims reserving with dependence</a>
+<a href="" class="no-external">(2010-2011) On the economic value of aggregating dependent portfolios</a>
 </h3>
 <div class="listing-categories">
 
@@ -655,10 +684,68 @@ Chief Investigator (with Greg Taylor and Bernard Wong)
 <div class="metadata">
 <a href="" class="no-external">
 <div class="listing-date">
-Jan 1, 2011
+Jan 1, 2010
 </div>
 <div class="metadata-value listing-Investigators">
 Chief Investigator (with Bernard Wong)
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+</section>
+<section id="university-funding" class="level2">
+<h2 class="anchored" data-anchor-id="university-funding">University Funding</h2>
+<div id="listing-internal-grants" class="quarto-listing quarto-listing-container-default">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="SW50ZXJuYWwlMjBDb21wZXRpdGl2ZQ==" data-listing-date-sort="1798722000000">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="" class="no-external">(2027-2031) BRACE: Financing Disaster Resilience and Adaptation</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('SW50ZXJuYWwlMjBDb21wZXRpdGl2ZQ=='); return false;">Internal Competitive</div>
+
+</div>
+<div class="delink listing-description"><a href="" class="no-external">
+<p>Faculty of Business and Economics Research Laboratory Fund, University of Melbourne. AUD 494,361 over five years, including a symposium.</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="" class="no-external">
+<div class="listing-date">
+Jan 1, 2027
+</div>
+<div class="metadata-value listing-Investigators">
+Lead Chief Investigator (co-lead: A/Prof Ben Neville)
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="TGVhcm5pbmclMjBhbmQlMjBUZWFjaGluZw==" data-listing-date-sort="1767186000000">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="" class="no-external">(2026-2028) Rethinking Actuarial Education with Generative AI: What to Teach, and How</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('TGVhcm5pbmclMjBhbmQlMjBUZWFjaGluZw=='); return false;">Learning and Teaching</div>
+
+</div>
+<div class="delink listing-description"><a href="" class="no-external">
+<p>Learning and Teaching Initiatives (LTI) Grant, The University of Melbourne</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="" class="no-external">
+<div class="listing-date">
+Jan 1, 2026
+</div>
+<div class="metadata-value listing-Investigators">
+Project Lead
 </div>
 </a>
 </div>

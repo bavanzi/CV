@@ -40,11 +40,7 @@ format:
 ---
 
 ::: {#hero-heading}
-Benjamin Avanzi, PhD, Actuary SAA, GAICD, CERA, FIAA, is Professor of Actuarial Studies at the University of Melbourne. He has worked as an actuarial consultant in Switzerland and Canada, served as the Executive Chairman of the Board for a Swiss pension fund from 2006 to 2008, and has held full-time academic positions in Australia and Canada since 2008. Currently, he is also a member of the Management Board of the Theatre Royal in Hobart, Tasmania.
-
-A fully qualified Swiss actuary (Actuary SAA), Benjamin is also a Fellow of the Australian Actuaries Institute (FIAA), a Chartered Enterprise Risk Actuary (CERA), and a Graduate member of the Australian Institute of Company Directors (GAICD). Additionally, he is an Academic member of the Casualty Actuarial Society and a member of the ASTIN section of the International Actuarial Association (IAA).
-
-Throughout his career, Benjamin has published numerous papers in leading actuarial and operations journals. Along with various co-authors, he has been awarded the Hachemeister Prize twice by the Casualty Actuarial Society, in 2017 and 2023, the Taylor Fry General Insurance Seminar Silver Prize in 2018, a Highly Commended Paper Prize from the Institute and Faculty of Actuaries in 2022, as well as both Melville and Carol Dolan All Actuaries Prizes in 2025. He is an Editor of the _ASTIN Bulletin: The Journal of the International Actuarial Association_ and an Associate Editor of the journal _Insurance: Mathematics and Economics_.   
+Benjamin Avanzi (PhD, Actuary SAA, FIAA, CERA, GAICD) is Professor of Actuarial Studies at the University of Melbourne and a Swiss and Australian actuary. After a PhD at the University of Lausanne, work in group life insurance and chairing a Swiss pension fund, he held academic positions at UNSW (2008–2013), the Université de Montréal (2013–2015) and UNSW again (2015–2020), before joining Melbourne in 2020. With students, colleagues and industry partners, he develops statistical and machine-learning models for claims reserving, dependence and capital, and the climate and disaster risks facing insurers, households and communities. This joint work has won two Hachemeister Prizes from the Casualty Actuarial Society, a Highly Commended Paper Prize from the Institute and Faculty of Actuaries, the Taylor Fry General Insurance Seminar Silver Prize, and the Melville and Carol Dolan Actuaries Summit Prizes. From January 2027 he leads BRACE, a University of Melbourne research laboratory on financing disaster resilience and adaptation. He is an Editor of _ASTIN Bulletin_, an Associate Editor of _Insurance: Mathematics and Economics_, and a Non-Executive Director of the Theatre Royal, Hobart.
 
 ::: {.columns}
 ::: {.column width="30%"}
@@ -54,6 +50,7 @@ Throughout his career, Benjamin has published numerous papers in leading actuari
 - Risk Management
 - Disaster Finance
 - Insurance capital
+- Machine Learning
 
 :::
 ::: {.column width="70%"}
@@ -62,9 +59,9 @@ Throughout his career, Benjamin has published numerous papers in leading actuari
 - {{< iconify uil graduation-cap >}} FIAA \| *Australian Actuaries Institute*
 - {{< iconify uil graduation-cap >}} CERA \| *CERA Global Association*
 - {{< iconify uil graduation-cap >}} GAICD \| *Australian Institute of Company Directors (AICD)*
-- {{< iconify uil graduation-cap >}} Actuary SAA \| *Swiss Assocation of Actuaries*
+- {{< iconify uil graduation-cap >}} Actuary SAA \| *Swiss Association of Actuaries*
 - {{< iconify uil graduation-cap >}} PhD in Actuarial Science \| *University of Lausanne*
-- {{< iconify uil graduation-cap >}} MSc in Economics, major in Actuarial Science \| *University of Lausanne*
+- {{< iconify uil graduation-cap >}} Lic Oec in Business, major in Actuarial Science \| *University of Lausanne*
 :::
 :::
 :::
